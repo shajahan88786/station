@@ -1,0 +1,34 @@
+
+#include "header.h"
+
+void vfnFormAndTransDataLogSigPkt(void)
+{
+	BITSTUFFINIT(0,7)
+	unsigned char dataLogPkt[25],i=0;
+	unsigned long SysTime = 0;
+	
+	dataLogPkt[0] = '$';
+	dataLogPkt[1] = DATALOG_SIGPKT;
+	
+
+	SysTime |= RTC_HOUR;
+	SysTime = SysTime<<6;
+	SysTime	|= RTC_MIN;
+	SysTime = SysTime<<6;
+	SysTime	|= RTC_SEC;
+	SysTime = SysTime<<7;
+	SysTime	|= (unsigned char)(((labs(SpoiGetSysTICs()-PPS_Clock))%1000)/10 );//for millisec
+	InsertBits(0,  24, &dataLogPkt[2],SysTime);
+	dataLogPkt[5] = stSelfInfo.stationId;
+	dataLogPkt[6] = SigStatus.ucNoOfSignal;	
+	for(i = 0; i<SigStatus.ucNoOfSignal; i++)
+	{
+		InsertBits(ucBit,  4, &dataLogPkt[ucByte], SigStatus.ucCurSigAsp[i]);
+		BITSTUFFINC(4);
+	}
+	ComputeCRC(dataLogPkt, ucByte);
+	dataLogPkt[ucByte+2] = '&';
+		
+	CommTransmitMessage(ISP_PORT,dataLogPkt,ucByte+2);
+	
+}

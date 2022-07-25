@@ -1,0 +1,11592 @@
+4590277 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 14968 484591308 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72076
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:16
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:17
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 2
+Setting TXflag  167799
+
+168028==T1TC
+0: 1:17
+
+putting Data on Port
+11|19|8b|2|17|20|8c|2d|0|0|0|0|0|0|ec|2|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201321
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 630 484778373 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 1644 484779386 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 2666 484780409 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 3688 484781431 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 4710 484782453 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 5733 484783475 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 6755 484784497 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 7777 484785520 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 8799 484786542 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 9821 484787564 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 10844 484788586 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 11875 484789617 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 12906 484790649 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 13937 484791680 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 14968 484792711 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72078
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:18
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:19
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DA
+Setting TXflag  167799
+
+168023==T1TC
+TE  8- 9-16 TIME 20: 1:19
+
+putting Data on Port
+11|19|8d|2|17|20|8c|2d|0|0|0|0|0|0|e4|a|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 631 484979776 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 1644 484980789 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 2666 484981812 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 3688 484982834 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 4710 484983856 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 5733 484984878 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 6755 484985900 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 7777 484986923 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 8799 484987945 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 9822 484988967 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 10844 484989989 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 11875 484991020 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 12906 484992052 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 13937 484993083 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 14968 484994114 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72080
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:20
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:21
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 
+Setting TXflag  167799
+
+168025==T1TC
+9-16 TIME 20: 1:21
+
+putting Data on Port
+11|19|8f|2|17|20|8c|2d|0|0|0|0|0|0|23|f3|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 631 485181178 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 1644 485182192 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 2666 485183214 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 3688 485184236 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 4711 485185258 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 5733 485186280 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 6755 485187303 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 7777 485188325 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 8799 485189347 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 9822 485190369 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 10844 485191391 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 11875 485192423 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 12906 485193454 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 13937 485194485 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 14969 485195516 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72082
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:22
+
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:23
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:23
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|91|2|17|20|8c|2d|0|0|0|0|0|0|b|db|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 631 485382581 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 1644 485383595 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 2666 485384617 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 3689 485385639 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 4711 485386661 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 5733 485387684 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 6755 485388706 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 7777 485389728 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 8800 485390750 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 9822 485391772 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 10844 485392795 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 11875 485393826 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 12906 485394857 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 13937 485395888 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 14969 485396919 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72084
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:24
+
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:25
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIM
+Setting TXflag  167799
+
+168029==T1TC
+E 20: 1:25
+
+putting Data on Port
+11|19|93|2|17|20|8c|2d|0|0|0|0|0|0|cc|22|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 630 485583984 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 1643 485584997 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 2665 485586019 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 3688 485587041 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 4710 485588063 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 5732 485589086 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 6754 485590108 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 7777 485591130 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 8799 485592152 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 9821 485593175 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 10843 485594197 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 11874 485595228 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 12905 485596259 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 13937 485597290 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 14968 485598321 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72086
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:26
+
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:27
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:27
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|95|2|17|20|8c|2d|0|0|0|0|0|0|c4|2a|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 630 485785387 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 1643 485786400 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 2666 485787422 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 3688 485788444 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 4710 485789467 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 5732 485790489 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 6754 485791511 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 7777 485792533 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 8799 485793555 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 9821 485794578 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 10843 485795600 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 11874 485796631 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 12906 485797662 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 13937 485798693 
+ 
+abc
+
+abc
+
+abc
+
+ 20:0:27  PPS INTERRUPT RECIEVED 14968 485799724 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72088
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:0:27 GPS DATA (GPRMC packet) RECEIVEDPeriodic RTC Time Updated( 60000 milli secs)
+REAL GPS DATE  8- 9-16 TIME 20: 1:28
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:29
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+$ .
+Œ&Seq No Mismatch  Seq No Mismatch  
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:29
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|97|2|17|20|8c|2d|0|0|0|0|0|0|3|d3|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 631 485986790 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 485987803 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2667 485988825 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3689 485989847 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4711 485990870 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 485991892 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 485992914 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7778 485993936 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8800 485994959 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9822 485995981 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 485997003 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 485998034 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12907 485999065 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13938 486000096 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14969 486001128 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72090
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:30
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:31
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:31
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|99|2|17|20|8c|2d|0|0|0|0|0|0|d4|3a|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 486188192 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 486189205 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 486190227 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 486191250 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 486192272 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5732 486193294 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 486194316 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 486195338 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 486196361 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 486197383 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10843 486198405 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 486199436 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 486200467 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 486201499 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 486202530 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72092
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:32
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:33
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:33
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|9b|2|17|20|8c|2d|0|0|0|0|0|0|13|c3|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 486389595 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 486390608 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 486391630 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 486392653 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 486393675 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 486394697 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 486395719 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 486396742 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 486397764 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 486398786 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 486399808 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 486400839 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 486401870 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 486402902 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 486403933 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72094
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:34
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:35
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:35
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|9d|2|17|20|8c|2d|0|0|0|0|0|0|1b|cb|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 631 486590997 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 486592010 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 486593033 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 486594055 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 486595077 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 486596099 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 486597122 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 486598144 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 486599166 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9822 486600188 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 486601210 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 486602242 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 486603273 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 486604304 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 486605335 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72096
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:36
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:37
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:37
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|9f|2|17|20|8c|2d|0|0|0|0|0|0|dc|32|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201321
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 631 486792400 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 486793414 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 486794436 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 486795458 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4711 486796480 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 486797502 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 486798525 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 486799547 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 486800569 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9822 486801591 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 486802613 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 486803645 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 486804676 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 486805707 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 486806738 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72098
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:38
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:39
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:39
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|a1|2|17|20|8c|2d|0|0|0|0|0|0|4b|9b|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 631 486993803 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 486994817 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 486995839 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 486996861 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4711 486997883 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 486998905 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 486999928 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 487000950 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 487001972 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9822 487002994 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 487004016 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 487005048 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 487006079 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 487007110 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14969 487008141 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72100
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:40
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:41
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:41
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|a3|2|17|20|8c|2d|0|0|0|0|0|0|8c|62|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201319
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 487195206 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1643 487196219 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2665 487197241 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 487198263 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 487199285 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5732 487200308 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6754 487201330 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7776 487202352 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 487203374 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 487204396 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10843 487205419 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11874 487206450 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12905 487207481 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 487208512 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 487209543 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72102
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:42
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:43
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:43
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|a5|2|17|20|8c|2d|0|0|0|0|0|0|84|6a|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 631 487396609 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 487397622 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 487398644 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3689 487399666 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4711 487400688 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 487401711 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 487402733 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7778 487403755 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8800 487404777 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9822 487405800 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 487406822 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 487407853 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 487408884 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13938 487409915 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14969 487410946 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72104
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:44
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:45
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:45
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|a7|2|17|20|8c|2d|0|0|0|0|0|0|43|93|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 487598011 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1643 487599024 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 487600046 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 487601068 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 487602091 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5732 487603113 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 487604135 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 487605157 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 487606180 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 487607202 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10843 487608224 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 487609255 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 487610286 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 487611317 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 487612349 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72106
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:46
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:47
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:47
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|a9|2|17|20|8c|2d|0|0|0|0|0|0|94|7a|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 487799414 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1643 487800427 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 487801449 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 487802472 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 487803494 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5732 487804516 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 487805538 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 487806560 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 487807583 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 487808605 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10843 487809627 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 487810658 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 487811689 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 487812721 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 487813752 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72108
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:48
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:49
+
+abc
+
+abc
+
+abc
+$ .
+?N&Seq No Mismatch  Seq No Mismatch  
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:49
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|ab|2|17|20|8c|2d|0|0|0|0|0|0|53|83|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 488000816 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 488001829 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 488002852 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 488003874 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 488004896 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 488005918 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 488006940 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 488007963 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 488008985 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 488010007 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 488011029 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 488012060 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 488013092 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 488014123 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 488015154 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72110
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:50
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:51
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:51
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|ad|2|17|20|8c|2d|0|0|0|0|0|0|5b|8b|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201321
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 631 488202219 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 488203232 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 488204255 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 488205277 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 488206299 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 488207321 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 488208343 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 488209366 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 488210388 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 488211410 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 488212432 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 488213463 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 488214495 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 488215526 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 488216557 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72112
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:52
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:53
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:53
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|af|2|17|20|8c|2d|0|0|0|0|0|0|9c|72|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201321
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 631 488403622 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 488404635 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 488405658 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 488406680 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 488407702 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 488408724 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 488409747 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 488410769 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 488411791 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9822 488412813 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 488413835 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 488414867 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 488415898 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 488416929 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 488417960 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72114
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:54
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:55
+
+ PPS ONE OK Ignoring PPS TWO
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:55
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|b1|2|17|20|8c|2d|0|0|0|0|0|0|b4|5a|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 488605024 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1643 488606038 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2665 488607060 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3687 488608082 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 488609104 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5732 488610126 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6754 488611149 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7776 488612171 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 488613193 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 488614215 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10843 488615238 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11874 488616269 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12905 488617300 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13936 488618331 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 488619362 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72116
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:56
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:57
+
+ PPS ONE OK Ignoring PPS TWO
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:57
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|b3|2|17|20|8c|2d|0|0|0|0|0|0|73|a3|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 631 488806427 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 488807441 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 488808463 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3689 488809485 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4711 488810507 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 488811530 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 488812552 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 488813574 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8800 488814596 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9822 488815618 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 488816641 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 488817672 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 488818703 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13938 488819734 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14969 488820765 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72118
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:58
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:59
+
+ PPS ONE OK Ignoring PPS TWO
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 1:59
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|b5|2|17|20|8c|2d|0|0|0|0|0|0|7b|ab|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 489007830 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1643 489008843 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2665 489009865 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 489010887 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 489011910 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5732 489012932 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6754 489013954 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 489014976 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 489015998 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 489017021 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10843 489018043 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11874 489019074 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12905 489020105 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 489021136 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 489022167 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72120
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2: 0
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2: 1
+
+ PPS ONE OK Ignoring PPS TWO
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+Setting TXflag  167799
+
+168031==T1TC
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2: 1
+
+putting Data on Port
+11|19|b7|2|17|20|8c|2d|0|0|0|0|0|0|bc|52|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 489209233 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1643 489210246 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 489211268 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 489212290 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 489213313 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5732 489214335 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6754 489215357 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 489216379 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 489217401 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 489218424 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10843 489219446 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11874 489220477 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 489221508 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 489222539 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 489223571 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72122
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2: 2
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2: 3
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2: 3
+
+Setting TXflag  167799
+
+168015==T1TC
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+putting Data on Port
+11|19|b9|2|17|20|8c|2d|0|0|0|0|0|0|6b|bb|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 631 489410636 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 489411649 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2667 489412671 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3689 489413693 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4711 489414716 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 489415738 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 489416760 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7778 489417782 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8800 489418805 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9822 489419827 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 489420849 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 489421880 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12907 489422911 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13938 489423942 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14969 489424974 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72124
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2: 4
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2: 5
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2: 5
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|bb|2|17|20|8c|2d|0|0|0|0|0|0|ac|42|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 489612038 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 489613051 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 489614073 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 489615096 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 489616118 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5732 489617140 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 489618162 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 489619184 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 489620207 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 489621229 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10843 489622251 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 489623282 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 489624313 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 489625345 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 489626376 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72126
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2: 6
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2: 7
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2: 7
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|bd|2|17|20|8c|2d|0|0|0|0|0|0|a4|4a|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+diff=201321
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 489813441 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 489814454 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 489815477 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 489816499 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 489817521 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 489818543 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 489819565 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 489820588 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 489821610 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 489822632 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 489823654 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 489824685 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 489825717 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 489826748 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 489827779 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72128
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2: 8
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2: 9
+
+abc
+
+abc
+
+abc
+$ .&
+²Œ&Seq No Mismatch  Seq No Mismatch  
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2: 9
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|bf|2|17|20|8c|2d|0|0|0|0|0|0|63|b3|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 490014843 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1643 490015856 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2665 490016879 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3687 490017901 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4709 490018923 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5732 490019945 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6754 490020968 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7776 490021990 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8798 490023012 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 490024034 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10843 490025056 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11874 490026088 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12905 490027119 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13936 490028150 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14967 490029181 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72130
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:10
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:11
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:11
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|c1|2|17|20|8c|2d|0|0|0|0|0|0|cb|1b|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 631 490216246 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 490217260 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 490218282 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 490219304 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4711 490220326 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 490221348 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 490222371 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 490223393 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 490224415 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9822 490225437 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 490226459 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 490227491 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 490228522 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 490229553 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14969 490230584 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72132
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:12
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:13
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:13
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|c3|2|17|20|8c|2d|0|0|0|0|0|0|c|e2|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 631 490417649 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 490418663 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 490419685 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 490420707 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4711 490421729 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 490422751 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 490423774 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 490424796 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8800 490425818 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9822 490426840 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 490427863 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 490428894 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 490429925 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 490430956 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14969 490431987 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72134
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:14
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:15
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:15
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|c5|2|17|20|8c|2d|0|0|0|0|0|0|4|ea|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+diff=201319
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 490619052 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1643 490620065 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2665 490621087 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 490622109 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 490623131 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5732 490624154 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6754 490625176 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7776 490626198 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 490627220 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 490628243 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10843 490629265 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11874 490630296 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12905 490631327 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 490632358 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 490633389 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72136
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:16
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:17
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:17
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|c7|2|17|20|8c|2d|0|0|0|0|0|0|c3|13|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 631 490820455 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 490821468 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2667 490822490 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3689 490823512 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4711 490824535 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 490825557 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 490826579 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7778 490827601 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8800 490828623 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9822 490829646 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 490830668 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 490831699 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12907 490832730 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13938 490833761 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14969 490834792 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72138
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:18
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:19
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:19
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|c9|2|17|20|8c|2d|0|0|0|0|0|0|14|fa|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 491021857 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 491022870 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 491023892 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 491024914 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 491025937 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5732 491026959 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 491027981 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 491029003 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 491030026 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 491031048 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10843 491032070 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 491033101 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 491034132 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 491035163 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 491036195 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72140
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:20
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:21
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:21
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|cb|2|17|20|8c|2d|0|0|0|0|0|0|d3|3|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+diff=201321
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 491223260 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 491224273 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 491225295 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 491226318 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 491227340 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5732 491228362 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 491229384 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 491230406 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 491231429 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 491232451 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10843 491233473 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 491234504 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 491235535 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 491236567 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 491237598 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72142
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:22
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:23
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:23
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|cd|2|17|20|8c|2d|0|0|0|0|0|0|db|b|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 630 491424663 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 491425676 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 491426698 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 491427721 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 491428743 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5732 491429765 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 491430787 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 491431810 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 491432832 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 491433854 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 491434876 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 491435907 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 491436938 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 491437970 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 491439001 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72144
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:24
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:25
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:25
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|cf|2|17|20|8c|2d|0|0|0|0|0|0|1c|f2|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 631 491626065 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1644 491627078 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2666 491628101 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3688 491629123 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4710 491630145 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5733 491631167 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6755 491632189 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7777 491633212 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8799 491634234 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9821 491635256 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10844 491636278 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11875 491637309 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12906 491638341 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13937 491639372 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14968 491640403 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72146
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:26
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:27
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:27
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|d1|2|17|20|8c|2d|0|0|0|0|0|0|34|da|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+
+NMS Pdiff=201321
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 641 491827478 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 1654 491828491 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 2676 491829514 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 3698 491830536 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 4720 491831558 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 5743 491832580 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 6765 491833602 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 7787 491834625 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 8809 491835647 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 9831 491836669 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 10854 491837691 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 11885 491838722 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 12916 491839754 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 13947 491840785 
+ 
+abc
+
+abc
+
+abc
+
+ 20:1:28  PPS INTERRUPT RECIEVED 14978 491841816 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+KT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+ GPS Frame No is 72148
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:28
+
+abc
+
+abc
+
+abc
+
+ 20:1:28 GPS DATA (GPRMC packet) RECEIVEDPeriodic RTC Time Updated( 60000 milli secs)
+REAL GPS DATE  8- 9-16 TIME 20: 2:29
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+$ N±
+:l&Seq No Mismatch  Seq No Mismatch  
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RE
+Setting TXflag  167799
+
+168025==T1TC
+CEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:29
+
+putting Data on Port
+11|19|d3|2|17|20|8c|2d|0|0|0|0|0|0|f3|23|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201310
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 492028870 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1643 492029884 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2665 492030906 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 492031928 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 492032950 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5732 492033973 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6754 492034995 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7776 492036017 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 492037039 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 492038061 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10843 492039084 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11874 492040115 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12905 492041146 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13936 492042177 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 492043208 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72150
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:30
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:31
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:31
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|d5|2|17|20|8c|2d|0|0|0|0|0|0|fb|2b|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 631 492230273 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 492231287 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 492232309 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3689 492233331 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4711 492234353 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5733 492235376 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 492236398 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 492237420 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8800 492238442 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9822 492239464 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10844 492240487 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 492241518 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 492242549 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 492243580 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14969 492244611 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72152
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:32
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:33
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:33
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|d7|2|17|20|8c|2d|0|0|0|0|0|0|3c|d2|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 631 492431677 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 492432690 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 492433712 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3689 492434734 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4711 492435756 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5733 492436779 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 492437801 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7778 492438823 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8800 492439845 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9822 492440868 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10844 492441890 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 492442921 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 492443952 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13938 492444983 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14969 492446014 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72154
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:34
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:35
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:35
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|d9|2|17|20|8c|2d|0|0|0|0|0|0|eb|3b|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 492633079 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1643 492634092 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 492635114 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 492636136 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 492637159 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5732 492638181 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6754 492639203 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 492640225 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 492641248 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 492642270 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10843 492643292 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11874 492644323 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 492645354 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 492646385 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 492647417 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72156
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:36
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:37
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:37
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|db|2|17|20|8c|2d|0|0|0|0|0|0|2c|c2|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 492834482 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1643 492835495 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 492836517 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 492837539 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 492838562 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5732 492839584 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 492840606 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 492841628 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 492842651 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 492843673 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10843 492844695 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 492845726 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 492846757 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 492847788 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 492848820 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72158
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:38
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:39
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:39
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|dd|2|17|20|8c|2d|0|0|0|0|0|0|24|ca|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 493035884 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 493036897 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 493037920 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 493038942 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 493039964 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5733 493040986 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 493042008 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 493043031 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 493044053 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 493045075 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10844 493046097 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 493047128 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 493048159 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 493049191 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 493050222 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72160
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:40
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:41
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:41
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|df|2|17|20|8c|2d|0|0|0|0|0|0|e3|33|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201321
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 493237287 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 493238300 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 493239323 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 493240345 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 493241367 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5733 493242389 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 493243411 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 493244434 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 493245456 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 493246478 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10844 493247500 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 493248531 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 493249563 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 493250594 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 493251625 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72162
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:42
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:43
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:43
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|e1|2|17|20|8c|2d|0|0|0|0|0|0|74|9a|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 493438689 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1643 493439703 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2665 493440725 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3687 493441747 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 493442769 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5732 493443791 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6754 493444814 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7776 493445836 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8798 493446858 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 493447880 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10843 493448902 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11874 493449934 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12905 493450965 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13936 493451996 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14967 493453027 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72164
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:44
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:45
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:45
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|e3|2|17|20|8c|2d|0|0|0|0|0|0|b3|63|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 631 493640092 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 493641106 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 493642128 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 493643150 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4711 493644172 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5733 493645194 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 493646217 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 493647239 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 493648261 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9822 493649283 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10844 493650305 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 493651337 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 493652368 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 493653399 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14969 493654430 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72166
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:46
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:47
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:47
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|e5|2|17|20|8c|2d|0|0|0|0|0|0|bb|6b|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 631 493841495 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 493842509 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 493843531 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3689 493844553 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4711 493845575 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5733 493846598 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 493847620 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 493848642 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8800 493849664 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9822 493850686 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10844 493851709 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 493852740 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 493853771 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 493854802 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14969 493855833 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72168
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:48
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:49
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:49
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|e7|2|17|20|8c|2d|0|0|0|0|0|0|7c|92|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+
+abc
+
+abc
+
+abc
+$ N½
+ol&Seq No Mismatch  Seq No Mismatch  diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 494042898 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1643 494043911 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2665 494044933 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 494045955 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 494046977 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5732 494048000 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6754 494049022 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 494050044 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 494051066 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 494052089 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10843 494053111 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11874 494054142 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12905 494055173 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 494056204 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 494057235 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72170
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:50
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:51
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:51
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|e9|2|17|20|8c|2d|0|0|0|0|0|0|ab|7b|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 494244301 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1643 494245314 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 494246336 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 494247358 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 494248381 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5732 494249403 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6754 494250425 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 494251447 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 494252469 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 494253492 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10843 494254514 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11874 494255545 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 494256576 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 494257607 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 494258638 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72172
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:52
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:53
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:53
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|eb|2|17|20|8c|2d|0|0|0|0|0|0|6c|82|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 494445703 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 494446716 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 494447738 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 494448761 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 494449783 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5732 494450805 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 494451827 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 494452849 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 494453872 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 494454894 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10843 494455916 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 494456947 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 494457978 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 494459010 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 494460041 
+ PPS INTERRUPT RECIEVED
+
+********** UPDATING TIMER WITH PPS  ************ 0
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72174
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:54
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:55
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:55
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|ed|2|17|20|8c|2d|0|0|0|0|0|0|64|8a|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201321
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 494647106 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 494648119 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 494649141 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 494650164 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 494651186 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5732 494652208 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 494653230 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 494654252 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 494655275 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 494656297 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10843 494657319 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 494658350 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 494659381 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 494660413 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 494661444 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72176
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:56
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:57
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:57
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|ef|2|17|20|8c|2d|0|0|0|0|0|0|a3|73|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 494848509 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 494849522 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 494850544 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 494851567 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 494852589 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5733 494853611 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 494854633 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 494855656 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 494856678 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 494857700 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10844 494858722 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 494859753 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 494860784 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 494861816 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 494862847 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72178
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:58
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:59
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 2:59
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|f1|2|17|20|8c|2d|0|0|0|0|0|0|8b|5b|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 631 495049911 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 495050924 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 495051947 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 495052969 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4711 495053991 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5733 495055013 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 495056036 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 495057058 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 495058080 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9822 495059102 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10844 495060124 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 495061155 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 495062187 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 495063218 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 495064249 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72180
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3: 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3: 1
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3: 1
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|f3|2|17|20|8c|2d|0|0|0|0|0|0|4c|a2|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201321
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 631 495251314 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 495252328 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 495253350 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 495254372 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4711 495255394 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5733 495256416 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 495257439 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 495258461 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 495259483 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9822 495260505 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10844 495261527 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 495262559 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 495263590 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 495264621 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 495265652 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72182
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3: 2
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3: 3
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3: 3
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|f5|2|17|20|8c|2d|0|0|0|0|0|0|44|aa|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 495452716 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1643 495453730 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2665 495454752 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 495455774 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 495456796 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5732 495457819 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6754 495458841 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7776 495459863 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 495460885 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 495461907 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10843 495462930 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11874 495463961 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12905 495464992 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13936 495466023 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 495467054 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72184
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3: 4
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3: 5
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3: 5
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|19|f7|2|17|20|8c|2d|0|0|0|0|0|0|83|53|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 495654120 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1643 495655133 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2665 495656155 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 495657177 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 495658199 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5732 495659222 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6754 495660244 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7776 495661266 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 495662288 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 495663310 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10843 495664333 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11874 495665364 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12905 495666395 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 495667426 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 495668457 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72186
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3: 6
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3: 7
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-1
+Setting TXflag  167799
+
+168031==T1TC
+6 TIME 20: 3: 7
+
+putting Data on Port
+11|19|f9|2|17|20|8c|2d|0|0|0|0|0|0|54|ba|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 631 495855523 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 495856536 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2667 495857558 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3689 495858580 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4711 495859603 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5733 495860625 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 495861647 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7778 495862669 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8800 495863691 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9822 495864714 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10844 495865736 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 495866767 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 495867798 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13938 495868829 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14969 495869860 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72188
+Stn abs loc =71770
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3: 8
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3: 9
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE
+Setting TXflag  167799
+
+168030==T1TC
+  8- 9-16 TIME 20: 3: 9
+
+putting Data on Port
+11|19|fb|2|17|20|8c|2d|0|0|0|0|0|0|93|43|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+
+abc
+
+abc
+
+abc
+$ NÈ
+t«&Seq No Mismatch  Seq No Mismatch  diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 496056925 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1643 496057938 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 496058960 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 496059982 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 496061005 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5732 496062027 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 496063049 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 496064071 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 496065094 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 496066116 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10843 496067138 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 496068169 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 496069200 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 496070231 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 496071263 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72190
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:10
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:11
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:11
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|fd|2|17|20|8c|2d|0|0|0|0|0|0|9b|4b|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 496258328 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 496259341 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 496260363 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 496261386 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 496262408 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5732 496263430 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 496264452 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 496265474 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 496266497 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 496267519 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10843 496268541 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 496269572 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 496270603 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 496271634 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 496272666 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72192
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:12
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:13
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:13
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|19|ff|2|17|20|8c|2d|0|0|0|0|0|0|5c|b2|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 496459730 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 496460743 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 496461765 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 496462788 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 496463810 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5733 496464832 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 496465854 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 496466877 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 496467899 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 496468921 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10844 496469943 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 496470974 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 496472006 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 496473037 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 496474068 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72194
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:14
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:15
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:15
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|1a|1|2|17|20|8c|2d|0|0|0|0|0|0|49|1d|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201321
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 631 496661133 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 496662146 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 496663169 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 496664191 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 496665213 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5733 496666235 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 496667257 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 496668280 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 496669302 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 496670324 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10844 496671346 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 496672377 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 496673409 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 496674440 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 496675471 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72196
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:16
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:17
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:17
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|1a|3|2|17|20|8c|2d|0|0|0|0|0|0|8e|e4|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 631 496862536 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 496863549 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 496864572 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 496865594 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 496866616 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5733 496867638 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 496868661 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 496869683 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 496870705 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9822 496871727 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10844 496872749 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 496873781 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 496874812 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 496875843 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 496876874 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72198
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:18
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:19
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20:
+Setting TXflag  167799
+
+168025==T1TC
+ 3:19
+
+putting Data on Port
+11|1a|5|2|17|20|8c|2d|0|0|0|0|0|0|86|ec|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201319
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 497063938 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1643 497064952 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2665 497065974 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3687 497066996 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 497068018 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5732 497069041 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6754 497070063 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7776 497071085 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 497072107 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 497073129 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10843 497074152 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11874 497075183 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12905 497076214 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13936 497077245 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 497078276 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72200
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:20
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:21
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:21
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|1a|7|2|17|20|8c|2d|0|0|0|0|0|0|41|15|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 631 497265341 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 497266355 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 497267377 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3689 497268399 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4711 497269421 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5733 497270444 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6755 497271466 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 497272488 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8800 497273510 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9822 497274532 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10844 497275555 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 497276586 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 497277617 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13938 497278648 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14969 497279679 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72202
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:22
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:23
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:23
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|1a|9|2|17|20|8c|2d|0|0|0|0|0|0|96|fc|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 497466744 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1643 497467757 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 497468779 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 497469801 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 497470824 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5732 497471846 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6754 497472868 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 497473890 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 497474912 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 497475935 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10843 497476957 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11874 497477988 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 497479019 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 497480050 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 497481081 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72204
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:24
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:25
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:25
+
+Setting TXflag  167799
+
+168015==T1TC
+
+putting Data on Port
+11|1a|b|2|17|20|8c|2d|0|0|0|0|0|0|51|5|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 630 497668147 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1643 497669160 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2666 497670182 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3688 497671204 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4710 497672227 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5732 497673249 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6754 497674271 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7777 497675293 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8799 497676315 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9821 497677338 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10843 497678360 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11874 497679391 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12906 497680422 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13937 497681453 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14968 497682485 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72206
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:26
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:27
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:27
+
+Setting TXflag  167799
+
+168016==T1TC
+
+putting Data on Port
+11|1a|d|2|17|20|8c|2d|0|0|0|0|0|0|59|d|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172150 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+diff=201320
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 631 497869550 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 1644 497870563 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 2667 497871585 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 3689 497872607 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 4711 497873630 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 5733 497874652 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 6756 497875674 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 7778 497876696 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 8800 497877719 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 9822 497878741 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 10844 497879763 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 11875 497880794 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 12907 497881825 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 13938 497882856 
+ 
+abc
+
+abc
+
+abc
+
+ 20:2:29  PPS INTERRUPT RECIEVED 14969 497883888 
+ PPS INTERRUPT RECIEVED
+
+Selfslot=3
+
+Selfslot=3
+
+Selfslot=3
+
+ GPS Frame No is 72208
+Stn abs loc =71770
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:28
+
+NMS PKT size =154
+
+ Sent Can NMS Stn PKT stn 16 loc 0
+
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVED
+REAL GPS DATE  8- 9-16 TIME 20: 3:29
+
+ PPS ONE OK Ignoring PPS TWO
+abc
+
+abc
+
+abc
+
+ 20:2:29 GPS DATA (GPRMC packet) RECEIVEDPeriodic RTC Time Updated( 60000 milli secs)
+REAL GPS DATE  8- 9-16 TIME 20: 3:29
+
+Setting TXflag  167799
+
+168024==T1TC
+
+putting Data on Port
+11|1a|f|2|17|20|8c|2d|0|0|0|0|0|0|9e|f4|
+Transmitting Station Broadcast Packet
+
+ T1TC = 172149 ,actualslot = 177333 wen RTS HIGH
+
+ T1TC = 172799 ,actualslot = 177333 wen RTS low
+
+abc
+
+abdiff=201320
+a

@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "..\obj\lpc2300.o" "..\obj\main.o" "..\obj\globals.o" "..\obj\inittcas.o" "..\obj\gpioinit.o" "..\obj\realtimeclk.o" "..\obj\systemtimer.o" "..\obj\uart.o" "..\obj\wdtinit.o" "..\obj\ext_rtc.o" "..\obj\serial.o" "..\obj\retarget.o" "..\obj\bitmanip.o" "..\obj\rxandtx.o" "..\obj\checksum.o" "..\obj\crc.o" "..\obj\ppsinit.o" "..\obj\di.o" "..\obj\do.o" "..\obj\loco.o" "..\obj\rm.o" "..\obj\can.o" "..\obj\timer.o" "..\obj\gps.o" "..\obj\station.o" "..\obj\datalogger.o" "..\obj\encrpt.o" --nodebug --strict --scatter "..\Obj\StationCOM_V01.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\Lst\StationCOM_V01.map" -o "..\Obj\StationCOM_V01.axf"

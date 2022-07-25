@@ -1,0 +1,45 @@
+*** Creating Trace Output File '..\Obj\StationCOM_V01.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\obj\lpc2300.o"'
+### List of Objects: adding '"..\obj\main.o"'
+### List of Objects: adding '"..\obj\globals.o"'
+### List of Objects: adding '"..\obj\inittcas.o"'
+### List of Objects: adding '"..\obj\gpioinit.o"'
+### List of Objects: adding '"..\obj\realtimeclk.o"'
+### List of Objects: adding '"..\obj\systemtimer.o"'
+### List of Objects: adding '"..\obj\uart.o"'
+### List of Objects: adding '"..\obj\wdtinit.o"'
+### List of Objects: adding '"..\obj\ext_rtc.o"'
+### List of Objects: adding '"..\obj\serial.o"'
+### List of Objects: adding '"..\obj\retarget.o"'
+### List of Objects: adding '"..\obj\bitmanip.o"'
+### List of Objects: adding '"..\obj\rxandtx.o"'
+### List of Objects: adding '"..\obj\checksum.o"'
+### List of Objects: adding '"..\obj\crc.o"'
+### List of Objects: adding '"..\obj\ppsinit.o"'
+### List of Objects: adding '"..\obj\di.o"'
+### List of Objects: adding '"..\obj\do.o"'
+### List of Objects: adding '"..\obj\loco.o"'
+### List of Objects: adding '"..\obj\rm.o"'
+### List of Objects: adding '"..\obj\can.o"'
+### List of Objects: adding '"..\obj\timer.o"'
+### List of Objects: adding '"..\obj\gps.o"'
+### List of Objects: adding '"..\obj\station.o"'
+### List of Objects: adding '"..\obj\datalogger.o"'
+### List of Objects: adding '"..\obj\encrpt.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "..\obj\lpc2300.o" "..\obj\main.o" "..\obj\globals.o" "..\obj\inittcas.o" "..\obj\gpioinit.o" "..\obj\realtimeclk.o" "..\obj\systemtimer.o" "..\obj\uart.o" "..\obj\wdtinit.o" "..\obj\ext_rtc.o" "..\obj\serial.o" "..\obj\retarget.o" "..\obj\bitmanip.o" "..\obj\rxandtx.o" "..\obj\checksum.o" "..\obj\crc.o" "..\obj\ppsinit.o" "..\obj\di.o" "..\obj\do.o" "..\obj\loco.o" "..\obj\rm.o" "..\obj\can.o" "..\obj\timer.o" "..\obj\gps.o" "..\obj\station.o" "..\obj\datalogger.o" "..\obj\encrpt.o" --nodebug --strict --scatter "..\Obj\StationCOM_V01.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\Lst\StationCOM_V01.map" -o "..\Obj\StationCOM_V01.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\Obj\StationCOM_V01.axf'
+### ADS-LD Command File: '..\Obj\StationCOM_V01.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\Obj\StationCOM_V01.lnp', Handle=0x00000340
+### Writing '.lnp' file
+### ADS-LD Command file '..\Obj\StationCOM_V01.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

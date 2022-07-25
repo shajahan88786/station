@@ -1,0 +1,2085 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html><head>
+<title>Static Call Graph - [..\Obj\StationCOM_V01.axf]</title></head>
+<body><HR>
+<H1>Static Call Graph for image ..\Obj\StationCOM_V01.axf</H1><HR>
+<BR><P>#&#060CALLGRAPH&#062# ARM Linker, 4.1 [Build 791]: Last Updated: Wed Oct 04 14:26:51 2017
+<BR><P>
+<H3>Maximum Stack Usage =          0 bytes + Unknown(Cycles, Untraceable Function Pointers)</H3><H3>
+Call chain for Maximum Stack Depth:</H3>
+
+<P>
+<H3>
+Mutually Recursive functions
+</H3> <LI><a href="#[5]">Undef_Handler</a>&nbsp;&nbsp;&nbsp;&rArr;&nbsp;&nbsp;&nbsp;<a href="#[5]">Undef_Handler</a><BR>
+ <LI><a href="#[6]">SWI_Handler</a>&nbsp;&nbsp;&nbsp;&rArr;&nbsp;&nbsp;&nbsp;<a href="#[6]">SWI_Handler</a><BR>
+ <LI><a href="#[7]">PAbt_Handler</a>&nbsp;&nbsp;&nbsp;&rArr;&nbsp;&nbsp;&nbsp;<a href="#[7]">PAbt_Handler</a><BR>
+ <LI><a href="#[8]">DAbt_Handler</a>&nbsp;&nbsp;&nbsp;&rArr;&nbsp;&nbsp;&nbsp;<a href="#[8]">DAbt_Handler</a><BR>
+ <LI><a href="#[9]">IRQ_Handler</a>&nbsp;&nbsp;&nbsp;&rArr;&nbsp;&nbsp;&nbsp;<a href="#[9]">IRQ_Handler</a><BR>
+ <LI><a href="#[a]">FIQ_Handler</a>&nbsp;&nbsp;&nbsp;&rArr;&nbsp;&nbsp;&nbsp;<a href="#[a]">FIQ_Handler</a><BR>
+ <LI><a href="#[3c]">_sys_exit</a>&nbsp;&nbsp;&nbsp;&rArr;&nbsp;&nbsp;&nbsp;<a href="#[3c]">_sys_exit</a><BR>
+</UL>
+<P>
+<H3>
+Function Pointers
+</H3><UL>
+ <LI><a href="#[13]">CAN_ISR</a> from can.o(.text) referenced from can.o(.text)
+ <LI><a href="#[8]">DAbt_Handler</a> from lpc2300.o(RESET) referenced from lpc2300.o(RESET)
+ <LI><a href="#[11]">EINT1_Handler</a> from ppsinit.o(.text) referenced from ppsinit.o(.text)
+ <LI><a href="#[12]">EINT2_Handler</a> from ppsinit.o(.text) referenced from ppsinit.o(.text)
+ <LI><a href="#[a]">FIQ_Handler</a> from lpc2300.o(RESET) referenced from lpc2300.o(RESET)
+ <LI><a href="#[9]">IRQ_Handler</a> from lpc2300.o(RESET) referenced from lpc2300.o(RESET)
+ <LI><a href="#[7]">PAbt_Handler</a> from lpc2300.o(RESET) referenced from lpc2300.o(RESET)
+ <LI><a href="#[4]">Reset_Handler</a> from lpc2300.o(RESET) referenced from lpc2300.o(RESET)
+ <LI><a href="#[6]">SWI_Handler</a> from lpc2300.o(RESET) referenced from lpc2300.o(RESET)
+ <LI><a href="#[e]">Spoi_SerialIoIrq0</a> from uart.o(.text) referenced from uart.o(.text)
+ <LI><a href="#[10]">Spoi_SerialIoIrq1</a> from uart.o(.text) referenced from uart.o(.text)
+ <LI><a href="#[f]">Spoi_SerialIoIrq2</a> from uart.o(.text) referenced from uart.o(.text)
+ <LI><a href="#[d]">Spoi_SerialIoIrq3</a> from uart.o(.text) referenced from uart.o(.text)
+ <LI><a href="#[14]">TIMER1_ISR</a> from timer.o(.text) referenced from timer.o(.text)
+ <LI><a href="#[15]">TIMER2_ISR</a> from timer.o(.text) referenced from timer.o(.text)
+ <LI><a href="#[16]">TIMER3_ISR</a> from timer.o(.text) referenced from timer.o(.text)
+ <LI><a href="#[5]">Undef_Handler</a> from lpc2300.o(RESET) referenced from lpc2300.o(RESET)
+ <LI><a href="#[1e]">__main</a> from __main.o(!!!main) referenced from lpc2300.o(RESET)
+ <LI><a href="#[17]">_get_lc_ctype</a> from lc_ctype_c.o(locale$$code) referenced from rt_ctype_table.o(.text)
+ <LI><a href="#[1d]">_printf_input_char</a> from _printf_char_common.o(.text) referenced from _printf_char_common.o(.text)
+ <LI><a href="#[19]">_sbackspace</a> from _sgetc.o(.text) referenced from __0sscanf.o(.text)
+ <LI><a href="#[1b]">_scanf_char_input</a> from scanf_char.o(.text) referenced from scanf_char.o(.text)
+ <LI><a href="#[18]">_sgetc</a> from _sgetc.o(.text) referenced from __0sscanf.o(.text)
+ <LI><a href="#[1a]">fputc</a> from retarget.o(.text) referenced from _printf_char_file.o(.text)
+ <LI><a href="#[1c]">isspace</a> from isspace.o(.text) referenced from scanf_char.o(.text)
+ <LI><a href="#[c]">main</a> from main.o(.text) referenced from rtentry2.o(.ARM.Collect$$rtentry$$0000000D)
+</UL>
+<P>
+<H3>
+Global Symbols
+</H3>
+<P><STRONG><a name="[4]"></a>Reset_Handler</STRONG> (ARM, 0 bytes, Stack size 0 bytes, lpc2300.o(RESET))
+<BR>[Address Reference Count : 1]<UL><LI> lpc2300.o(RESET)
+</UL>
+<P><STRONG><a name="[1e]"></a>__main</STRONG> (ARM, 8 bytes, Stack size 0 bytes, __main.o(!!!main))
+<BR><BR>[Calls]<UL><LI><a href="#[20]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_entry
+<LI><a href="#[1f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__scatterload
+</UL>
+
+<P><STRONG><a name="[1f]"></a>__scatterload</STRONG> (ARM, 0 bytes, Stack size 0 bytes, __scatter.o(!!!scatter))
+<BR><BR>[Called By]<UL><LI><a href="#[1e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__main
+</UL>
+
+<P><STRONG><a name="[21]"></a>__scatterload_rt2</STRONG> (ARM, 52 bytes, Stack size 0 bytes, __scatter.o(!!!scatter), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[20]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_entry
+</UL>
+
+<P><STRONG><a name="[22]"></a>_printf_d</STRONG> (ARM, 0 bytes, Stack size 0 bytes, _printf_d.o(.ARM.Collect$$_printf_percent$$00000009))
+<BR><BR>[Calls]<UL><LI><a href="#[23]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_int_dec (via Veneer)
+</UL>
+
+<P><STRONG><a name="[e6]"></a>_printf_percent</STRONG> (ARM, 0 bytes, Stack size 0 bytes, _printf_percent.o(.ARM.Collect$$_printf_percent$$00000000))
+<BR><BR>[Called By]<UL><LI><a href="#[e4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__printf (via Veneer)
+</UL>
+
+<P><STRONG><a name="[24]"></a>_printf_u</STRONG> (ARM, 0 bytes, Stack size 0 bytes, _printf_u.o(.ARM.Collect$$_printf_percent$$0000000A))
+<BR><BR>[Calls]<UL><LI><a href="#[23]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_int_dec (via Veneer)
+</UL>
+
+<P><STRONG><a name="[25]"></a>_printf_x</STRONG> (ARM, 0 bytes, Stack size 0 bytes, _printf_x.o(.ARM.Collect$$_printf_percent$$0000000C))
+<BR><BR>[Calls]<UL><LI><a href="#[26]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_int_hex (via Veneer)
+</UL>
+
+<P><STRONG><a name="[27]"></a>_printf_c</STRONG> (ARM, 0 bytes, Stack size 0 bytes, _printf_c.o(.ARM.Collect$$_printf_percent$$00000013))
+<BR><BR>[Calls]<UL><LI><a href="#[28]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_char (via Veneer)
+</UL>
+
+<P><STRONG><a name="[29]"></a>_printf_s</STRONG> (ARM, 0 bytes, Stack size 0 bytes, _printf_s.o(.ARM.Collect$$_printf_percent$$00000014))
+<BR><BR>[Calls]<UL><LI><a href="#[2a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_string (via Veneer)
+</UL>
+
+<P><STRONG><a name="[2b]"></a>__rt_lib_init</STRONG> (Thumb, 0 bytes, Stack size 0 bytes, libinit.o(.ARM.Collect$$libinit$$00000000))
+<BR><BR>[Calls]<UL><LI><a href="#[2c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_fp_init (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[36]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_entry_li (via Veneer)
+</UL>
+
+<P><STRONG><a name="[2d]"></a>__rt_lib_init_rand_2</STRONG> (Thumb, 0 bytes, Stack size 0 bytes, libinit2.o(.ARM.Collect$$libinit$$00000009))
+<BR><BR>[Calls]<UL><LI><a href="#[2e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_rand_init
+</UL>
+
+<P><STRONG><a name="[2f]"></a>__rt_lib_init_lc_common</STRONG> (Thumb, 0 bytes, Stack size 0 bytes, libinit2.o(.ARM.Collect$$libinit$$0000000B))
+<BR><BR>[Calls]<UL><LI><a href="#[30]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_locale (via Veneer)
+</UL>
+
+<P><STRONG><a name="[31]"></a>__rt_lib_init_lc_ctype_2</STRONG> (Thumb, 0 bytes, Stack size 0 bytes, libinit2.o(.ARM.Collect$$libinit$$0000000E))
+<BR><BR>[Calls]<UL><LI><a href="#[17]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_get_lc_ctype (via Veneer)
+</UL>
+
+<P><STRONG><a name="[32]"></a>__rt_lib_init_lc_numeric_2</STRONG> (Thumb, 0 bytes, Stack size 0 bytes, libinit2.o(.ARM.Collect$$libinit$$00000012))
+<BR><BR>[Calls]<UL><LI><a href="#[33]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_get_lc_numeric (via Veneer)
+</UL>
+
+<P><STRONG><a name="[3a]"></a>__rt_lib_shutdown</STRONG> (Thumb, 0 bytes, Stack size 0 bytes, libshutdown.o(.ARM.Collect$$libshutdown$$00000000))
+<BR><BR>[Called By]<UL><LI><a href="#[39]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_exit_ls (via Veneer)
+</UL>
+
+<P><STRONG><a name="[20]"></a>__rt_entry</STRONG> (ARM, 0 bytes, Stack size 0 bytes, rtentry.o(.ARM.Collect$$rtentry$$00000000))
+<BR><BR>[Called By]<UL><LI><a href="#[1e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__main
+<LI><a href="#[21]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__scatterload_rt2
+</UL>
+
+<P><STRONG><a name="[34]"></a>__rt_entry_sh</STRONG> (ARM, 0 bytes, Stack size 0 bytes, rtentry4.o(.ARM.Collect$$rtentry$$00000004))
+<BR><BR>[Calls]<UL><LI><a href="#[35]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__user_setup_stackheap
+</UL>
+
+<P><STRONG><a name="[36]"></a>__rt_entry_li</STRONG> (ARM, 0 bytes, Stack size 0 bytes, rtentry2.o(.ARM.Collect$$rtentry$$0000000A))
+<BR><BR>[Calls]<UL><LI><a href="#[2b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_lib_init (via Veneer)
+</UL>
+
+<P><STRONG><a name="[37]"></a>__rt_entry_main</STRONG> (ARM, 0 bytes, Stack size 0 bytes, rtentry2.o(.ARM.Collect$$rtentry$$0000000D))
+<BR><BR>[Calls]<UL><LI><a href="#[38]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;exit (via BX)
+</UL>
+
+<P><STRONG><a name="[114]"></a>__rt_exit</STRONG> (ARM, 0 bytes, Stack size 0 bytes, rtexit.o(.ARM.Collect$$rtexit$$00000000))
+<BR><BR>[Called By]<UL><LI><a href="#[38]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;exit (via Veneer)
+</UL>
+
+<P><STRONG><a name="[39]"></a>__rt_exit_ls</STRONG> (ARM, 0 bytes, Stack size 0 bytes, rtexit2.o(.ARM.Collect$$rtexit$$00000003))
+<BR><BR>[Calls]<UL><LI><a href="#[3a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_lib_shutdown (via Veneer)
+</UL>
+
+<P><STRONG><a name="[3b]"></a>__rt_exit_exit</STRONG> (ARM, 0 bytes, Stack size 0 bytes, rtexit2.o(.ARM.Collect$$rtexit$$00000004))
+<BR><BR>[Calls]<UL><LI><a href="#[3c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_sys_exit (via Veneer)
+</UL>
+
+<P><STRONG><a name="[94]"></a>rand</STRONG> (Thumb, 52 bytes, Stack size 0 bytes, rand.o(.emb_text))
+<BR><BR>[Called By]<UL><LI><a href="#[90]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractLocoPacket
+<LI><a href="#[4c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ConfigEmergencyPkt
+</UL>
+
+<P><STRONG><a name="[10c]"></a>__user_initial_stackheap</STRONG> (ARM, 0 bytes, Stack size 0 bytes, lpc2300.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[35]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__user_setup_stackheap
+</UL>
+
+<P><STRONG><a name="[c]"></a>main</STRONG> (Thumb, 538 bytes, Stack size 0 bytes, main.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr4 (via Veneer)
+<LI><a href="#[4e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr (via Veneer)
+<LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[48]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;updadeTrnLenNodes
+<LI><a href="#[3e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;spoiInitializeTcasHardware
+<LI><a href="#[43]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;readCanToStructs
+<LI><a href="#[44]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processTransmissionToModem
+<LI><a href="#[45]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processSlotControlPacketToModem
+<LI><a href="#[58]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processReceiveMessage
+<LI><a href="#[4f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer1MR0
+<LI><a href="#[4d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStationPacket
+<LI><a href="#[49]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formSlotControlPacket
+<LI><a href="#[50]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formEmergencyPacket
+<LI><a href="#[57]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;delSigInfoNodes
+<LI><a href="#[4a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;configTimers
+<LI><a href="#[4b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;configSlotControlPkt
+<LI><a href="#[51]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitCanPkt
+<LI><a href="#[41]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiWDTReload
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs
+<LI><a href="#[52]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SendResetCmdToRM
+<LI><a href="#[53]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SendModemDiagnosticReqASCII
+<LI><a href="#[46]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadRMSetupPortASCII
+<LI><a href="#[56]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadGPSData
+<LI><a href="#[47]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;FrquncyShift_FSToF0
+<LI><a href="#[54]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;FrquncyShift_F0ToFS
+<LI><a href="#[4c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ConfigEmergencyPkt
+<LI><a href="#[42]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommWatchDogStrobe
+<LI><a href="#[40]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckCrcOnStartup
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> rtentry2.o(.ARM.Collect$$rtentry$$0000000D)
+</UL>
+<P><STRONG><a name="[59]"></a>InitHardware</STRONG> (Thumb, 152 bytes, Stack size 0 bytes, inittcas.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[62]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;timer3Init
+<LI><a href="#[61]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;timer2Init
+<LI><a href="#[60]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;timer1Init
+<LI><a href="#[63]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;rtc_intl
+<LI><a href="#[5f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;getMIESlotNumber
+<LI><a href="#[64]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;can_Init
+<LI><a href="#[5b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiWDTInit
+<LI><a href="#[5d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiUartInitialize
+<LI><a href="#[5e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiSysTimeInit
+<LI><a href="#[5a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGPIOInit
+<LI><a href="#[5c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINTInit
+<LI><a href="#[42]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommWatchDogStrobe
+</UL>
+<BR>[Called By]<UL><LI><a href="#[3e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;spoiInitializeTcasHardware
+</UL>
+
+<P><STRONG><a name="[3e]"></a>spoiInitializeTcasHardware</STRONG> (Thumb, 2 bytes, Stack size 0 bytes, inittcas.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[59]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InitHardware
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[5a]"></a>SpoiGPIOInit</STRONG> (Thumb, 112 bytes, Stack size 0 bytes, gpioinit.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[59]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InitHardware
+</UL>
+
+<P><STRONG><a name="[5f]"></a>getMIESlotNumber</STRONG> (Thumb, 224 bytes, Stack size 0 bytes, gpioinit.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+</UL>
+<BR>[Called By]<UL><LI><a href="#[59]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InitHardware
+</UL>
+
+<P><STRONG><a name="[40]"></a>CheckCrcOnStartup</STRONG> (Thumb, 114 bytes, Stack size 0 bytes, gpioinit.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[65]"></a>SpoiRTCInit</STRONG> (Thumb, 32 bytes, Stack size 0 bytes, realtimeclk.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[56]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadGPSData
+</UL>
+
+<P><STRONG><a name="[66]"></a>SpoiRTCSetDateTime</STRONG> (Thumb, 36 bytes, Stack size 0 bytes, realtimeclk.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[67]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Write_ex_RTC
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SetRTCDateTime
+</UL>
+
+<P><STRONG><a name="[68]"></a>SpoiRTCGetDateTime</STRONG> (Thumb, 44 bytes, Stack size 0 bytes, realtimeclk.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[69]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memcpy4 (via Veneer)
+</UL>
+
+<P><STRONG><a name="[6a]"></a>SpoiRTCGETMilliSeconds</STRONG> (Thumb, 30 bytes, Stack size 0 bytes, realtimeclk.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs
+</UL>
+
+<P><STRONG><a name="[5e]"></a>SpoiSysTimeInit</STRONG> (Thumb, 102 bytes, Stack size 0 bytes, systemtimer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[59]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InitHardware
+</UL>
+
+<P><STRONG><a name="[55]"></a>SpoiGetSysTICs</STRONG> (Thumb, 6 bytes, Stack size 0 bytes, systemtimer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[d0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;DetectSpike
+<LI><a href="#[c4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;NetworkTimeSync
+<LI><a href="#[b6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnFormAndTransDataLogSigPkt
+<LI><a href="#[ad]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CAN_wrMsg
+<LI><a href="#[a4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnTransmitDataloggerStnPkt
+<LI><a href="#[a8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ProcessRmHealthASCIIPkt
+<LI><a href="#[97]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;updateTrainLenStat
+<LI><a href="#[11]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINT1_Handler (via Veneer)
+<LI><a href="#[12]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINT2_Handler (via Veneer)
+<LI><a href="#[6a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiRTCGETMilliSeconds
+<LI><a href="#[43]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;readCanToStructs
+<LI><a href="#[58]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processReceiveMessage
+<LI><a href="#[57]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;delSigInfoNodes
+<LI><a href="#[46]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadRMSetupPortASCII
+<LI><a href="#[56]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadGPSData
+<LI><a href="#[42]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommWatchDogStrobe
+<LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[6c]"></a>SpoiElapsTICs</STRONG> (Thumb, 8 bytes, Stack size 0 bytes, systemtimer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[d0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;DetectSpike
+<LI><a href="#[c4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;NetworkTimeSync
+<LI><a href="#[a8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ProcessRmHealthASCIIPkt
+<LI><a href="#[11]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINT1_Handler (via Veneer)
+<LI><a href="#[12]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINT2_Handler (via Veneer)
+<LI><a href="#[6b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiPause
+<LI><a href="#[58]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processReceiveMessage
+<LI><a href="#[4d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStationPacket
+<LI><a href="#[46]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadRMSetupPortASCII
+<LI><a href="#[42]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommWatchDogStrobe
+</UL>
+
+<P><STRONG><a name="[6b]"></a>SpoiPause</STRONG> (Thumb, 22 bytes, Stack size 0 bytes, systemtimer.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[6c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiElapsTICs
+</UL>
+<BR>[Called By]<UL><LI><a href="#[16]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TIMER3_ISR (via Veneer)
+<LI><a href="#[a3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnFireRadioPkt
+</UL>
+
+<P><STRONG><a name="[5d]"></a>SpoiUartInitialize</STRONG> (Thumb, 210 bytes, Stack size 0 bytes, uart.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[70]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Spoi_InitUartOne
+<LI><a href="#[6f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Spoi_InitUartBuffers
+<LI><a href="#[6d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Spoi_Uart_Baudrate
+</UL>
+<BR>[Called By]<UL><LI><a href="#[59]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InitHardware
+</UL>
+
+<P><STRONG><a name="[5b]"></a>SpoiWDTInit</STRONG> (Thumb, 32 bytes, Stack size 0 bytes, wdtinit.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[59]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InitHardware
+</UL>
+
+<P><STRONG><a name="[41]"></a>SpoiWDTReload</STRONG> (Thumb, 20 bytes, Stack size 0 bytes, wdtinit.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[42]"></a>CommWatchDogStrobe</STRONG> (Thumb, 86 bytes, Stack size 0 bytes, wdtinit.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[6c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiElapsTICs
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs
+</UL>
+<BR>[Called By]<UL><LI><a href="#[cf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;GetGPSData
+<LI><a href="#[a1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeMAC_Code
+<LI><a href="#[9a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;rReadAndFormMessageNoDle
+<LI><a href="#[7f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommReadAndFormMessage
+<LI><a href="#[59]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InitHardware
+<LI><a href="#[43]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;readCanToStructs
+<LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[71]"></a>convert</STRONG> (Thumb, 22 bytes, Stack size 0 bytes, ext_rtc.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[6e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uidivmod (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[67]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Write_ex_RTC
+</UL>
+
+<P><STRONG><a name="[73]"></a>Dely</STRONG> (Thumb, 12 bytes, Stack size 0 bytes, ext_rtc.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[77]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Rtc_receive
+<LI><a href="#[76]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Write_Rtc
+<LI><a href="#[75]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Rtc_write
+<LI><a href="#[74]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Rtc_stop
+<LI><a href="#[72]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Rtc_start
+<LI><a href="#[63]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;rtc_intl
+</UL>
+
+<P><STRONG><a name="[72]"></a>Rtc_start</STRONG> (Thumb, 182 bytes, Stack size 0 bytes, ext_rtc.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[73]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Dely
+</UL>
+<BR>[Called By]<UL><LI><a href="#[78]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Read_Rtc
+<LI><a href="#[76]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Write_Rtc
+</UL>
+
+<P><STRONG><a name="[74]"></a>Rtc_stop</STRONG> (Thumb, 96 bytes, Stack size 0 bytes, ext_rtc.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[73]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Dely
+</UL>
+<BR>[Called By]<UL><LI><a href="#[78]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Read_Rtc
+<LI><a href="#[76]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Write_Rtc
+</UL>
+
+<P><STRONG><a name="[75]"></a>Rtc_write</STRONG> (Thumb, 222 bytes, Stack size 0 bytes, ext_rtc.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[73]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Dely
+</UL>
+<BR>[Called By]<UL><LI><a href="#[78]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Read_Rtc
+<LI><a href="#[76]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Write_Rtc
+</UL>
+
+<P><STRONG><a name="[76]"></a>Write_Rtc</STRONG> (Thumb, 86 bytes, Stack size 0 bytes, ext_rtc.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[75]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Rtc_write
+<LI><a href="#[74]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Rtc_stop
+<LI><a href="#[72]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Rtc_start
+<LI><a href="#[73]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Dely
+</UL>
+<BR>[Called By]<UL><LI><a href="#[67]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Write_ex_RTC
+</UL>
+
+<P><STRONG><a name="[77]"></a>Rtc_receive</STRONG> (Thumb, 314 bytes, Stack size 0 bytes, ext_rtc.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[73]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Dely
+</UL>
+<BR>[Called By]<UL><LI><a href="#[78]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Read_Rtc
+</UL>
+
+<P><STRONG><a name="[78]"></a>Read_Rtc</STRONG> (Thumb, 70 bytes, Stack size 0 bytes, ext_rtc.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[77]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Rtc_receive
+<LI><a href="#[75]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Rtc_write
+<LI><a href="#[74]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Rtc_stop
+<LI><a href="#[72]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Rtc_start
+</UL>
+<BR>[Called By]<UL><LI><a href="#[b6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnFormAndTransDataLogSigPkt
+<LI><a href="#[a4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnTransmitDataloggerStnPkt
+<LI><a href="#[a0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;getFrameNum
+<LI><a href="#[58]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processReceiveMessage
+</UL>
+
+<P><STRONG><a name="[63]"></a>rtc_intl</STRONG> (Thumb, 80 bytes, Stack size 0 bytes, ext_rtc.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[73]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Dely
+</UL>
+<BR>[Called By]<UL><LI><a href="#[59]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InitHardware
+</UL>
+
+<P><STRONG><a name="[67]"></a>Write_ex_RTC</STRONG> (Thumb, 126 bytes, Stack size 0 bytes, ext_rtc.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[76]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Write_Rtc
+<LI><a href="#[71]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;convert
+</UL>
+<BR>[Called By]<UL><LI><a href="#[66]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiRTCSetDateTime
+</UL>
+
+<P><STRONG><a name="[79]"></a>sendchar</STRONG> (Thumb, 26 bytes, Stack size 0 bytes, serial.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[7c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_ttywrch
+<LI><a href="#[7a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;fgetc
+<LI><a href="#[1a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;fputc
+</UL>
+
+<P><STRONG><a name="[7b]"></a>getkey</STRONG> (Thumb, 12 bytes, Stack size 0 bytes, serial.o(.text), UNUSED)
+<BR><BR>[Called By]<UL><LI><a href="#[7a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;fgetc
+</UL>
+
+<P><STRONG><a name="[1a]"></a>fputc</STRONG> (Thumb, 12 bytes, Stack size 0 bytes, retarget.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[79]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;sendchar
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> _printf_char_file.o(.text)
+</UL>
+<P><STRONG><a name="[7a]"></a>fgetc</STRONG> (Thumb, 12 bytes, Stack size 0 bytes, retarget.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[7b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;getkey
+<LI><a href="#[79]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;sendchar
+</UL>
+
+<P><STRONG><a name="[f3]"></a>ferror</STRONG> (Thumb, 6 bytes, Stack size 0 bytes, retarget.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[db]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_char_file
+</UL>
+
+<P><STRONG><a name="[7c]"></a>_ttywrch</STRONG> (Thumb, 8 bytes, Stack size 0 bytes, retarget.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[79]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;sendchar
+</UL>
+
+<P><STRONG><a name="[3c]"></a>_sys_exit</STRONG> (Thumb, 2 bytes, Stack size 0 bytes, retarget.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_sys_exit
+</UL>
+<BR>[Called By]<UL><LI><a href="#[3c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_sys_exit
+<LI><a href="#[3b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_exit_exit (via Veneer)
+</UL>
+
+<P><STRONG><a name="[91]"></a>ExtractBits</STRONG> (Thumb, 94 bytes, Stack size 0 bytes, bitmanip.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[a4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnTransmitDataloggerStnPkt
+<LI><a href="#[9c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckMAC
+<LI><a href="#[a6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processEmergencyPacketToModem
+<LI><a href="#[a5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;transmitAccConPktToModem
+<LI><a href="#[a2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;transmitStnPktToModem
+<LI><a href="#[9a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;rReadAndFormMessageNoDle
+<LI><a href="#[99]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AnalyzeHeader
+<LI><a href="#[90]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractLocoPacket
+</UL>
+
+<P><STRONG><a name="[9f]"></a>InsertBits</STRONG> (Thumb, 142 bytes, Stack size 0 bytes, bitmanip.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[b6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnFormAndTransDataLogSigPkt
+<LI><a href="#[a4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnTransmitDataloggerStnPkt
+<LI><a href="#[a7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStaticTrackProfilePkt
+<LI><a href="#[58]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processReceiveMessage
+<LI><a href="#[4d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStationPacket
+<LI><a href="#[49]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formSlotControlPacket
+<LI><a href="#[50]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formEmergencyPacket
+</UL>
+
+<P><STRONG><a name="[7e]"></a>CommGetCRC16</STRONG> (Thumb, 62 bytes, Stack size 0 bytes, rxandtx.o(.text), UNUSED)
+<BR><BR>[Called By]<UL><LI><a href="#[84]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommComputeCRC
+<LI><a href="#[7d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommCheckCRC
+</UL>
+
+<P><STRONG><a name="[7d]"></a>CommCheckCRC</STRONG> (Thumb, 48 bytes, Stack size 0 bytes, rxandtx.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[7e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommGetCRC16
+</UL>
+<BR>[Called By]<UL><LI><a href="#[7f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommReadAndFormMessage
+</UL>
+
+<P><STRONG><a name="[80]"></a>Comm_ComGetByte</STRONG> (Thumb, 36 bytes, Stack size 0 bytes, rxandtx.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[cf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;GetGPSData
+<LI><a href="#[ac]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadTXReplay
+<LI><a href="#[ab]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadModemHealthASCII
+<LI><a href="#[9a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;rReadAndFormMessageNoDle
+<LI><a href="#[7f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommReadAndFormMessage
+</UL>
+
+<P><STRONG><a name="[81]"></a>Comm_ComDataReady</STRONG> (Thumb, 26 bytes, Stack size 0 bytes, rxandtx.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[cf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;GetGPSData
+<LI><a href="#[ac]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadTXReplay
+<LI><a href="#[ab]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadModemHealthASCII
+<LI><a href="#[9a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;rReadAndFormMessageNoDle
+<LI><a href="#[7f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommReadAndFormMessage
+</UL>
+
+<P><STRONG><a name="[7f]"></a>CommReadAndFormMessage</STRONG> (Thumb, 172 bytes, Stack size 0 bytes, rxandtx.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[81]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Comm_ComDataReady
+<LI><a href="#[80]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Comm_ComGetByte
+<LI><a href="#[7d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommCheckCRC
+<LI><a href="#[42]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommWatchDogStrobe
+</UL>
+
+<P><STRONG><a name="[83]"></a>Comm_ComSendByte</STRONG> (Thumb, 62 bytes, Stack size 0 bytes, rxandtx.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[85]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitMessage_NoDle
+<LI><a href="#[82]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommTransmitMessage
+<LI><a href="#[52]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SendResetCmdToRM
+<LI><a href="#[53]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SendModemDiagnosticReqASCII
+</UL>
+
+<P><STRONG><a name="[82]"></a>CommTransmitMessage</STRONG> (Thumb, 90 bytes, Stack size 0 bytes, rxandtx.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[83]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Comm_ComSendByte
+</UL>
+<BR>[Called By]<UL><LI><a href="#[b6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnFormAndTransDataLogSigPkt
+<LI><a href="#[a4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnTransmitDataloggerStnPkt
+<LI><a href="#[58]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processReceiveMessage
+</UL>
+
+<P><STRONG><a name="[84]"></a>CommComputeCRC</STRONG> (Thumb, 36 bytes, Stack size 0 bytes, rxandtx.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[7e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommGetCRC16
+</UL>
+
+<P><STRONG><a name="[85]"></a>TransmitMessage_NoDle</STRONG> (Thumb, 76 bytes, Stack size 0 bytes, rxandtx.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[83]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Comm_ComSendByte
+</UL>
+<BR>[Called By]<UL><LI><a href="#[a6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processEmergencyPacketToModem
+<LI><a href="#[a5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;transmitAccConPktToModem
+<LI><a href="#[a2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;transmitStnPktToModem
+</UL>
+
+<P><STRONG><a name="[87]"></a>Get_CS</STRONG> (Thumb, 22 bytes, Stack size 0 bytes, checksum.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[86]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckCS
+</UL>
+
+<P><STRONG><a name="[86]"></a>CheckCS</STRONG> (Thumb, 38 bytes, Stack size 0 bytes, checksum.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[87]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Get_CS
+</UL>
+<BR>[Called By]<UL><LI><a href="#[88]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckIntegrity
+</UL>
+
+<P><STRONG><a name="[88]"></a>CheckIntegrity</STRONG> (Thumb, 30 bytes, Stack size 0 bytes, checksum.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[89]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckCRC
+<LI><a href="#[86]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckCS
+</UL>
+<BR>[Called By]<UL><LI><a href="#[9a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;rReadAndFormMessageNoDle
+</UL>
+
+<P><STRONG><a name="[8b]"></a>GetCRC16</STRONG> (Thumb, 74 bytes, Stack size 0 bytes, crc.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[a1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeMAC_Code
+<LI><a href="#[8a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeCRC
+<LI><a href="#[89]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckCRC
+</UL>
+
+<P><STRONG><a name="[8a]"></a>ComputeCRC</STRONG> (Thumb, 36 bytes, Stack size 0 bytes, crc.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[8b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;GetCRC16
+</UL>
+<BR>[Called By]<UL><LI><a href="#[d1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processAuthenticationKeyRequest
+<LI><a href="#[b6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnFormAndTransDataLogSigPkt
+<LI><a href="#[a4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnTransmitDataloggerStnPkt
+<LI><a href="#[a7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStaticTrackProfilePkt
+<LI><a href="#[58]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processReceiveMessage
+<LI><a href="#[4d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStationPacket
+<LI><a href="#[49]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formSlotControlPacket
+<LI><a href="#[50]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formEmergencyPacket
+</UL>
+
+<P><STRONG><a name="[89]"></a>CheckCRC</STRONG> (Thumb, 64 bytes, Stack size 0 bytes, crc.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[8b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;GetCRC16
+</UL>
+<BR>[Called By]<UL><LI><a href="#[88]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckIntegrity
+</UL>
+
+<P><STRONG><a name="[12]"></a>EINT2_Handler</STRONG> (ARM, 256 bytes, Stack size 0 bytes, ppsinit.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[8f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer2MR3 (via Veneer)
+<LI><a href="#[8e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer2MR2 (via Veneer)
+<LI><a href="#[8d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer2MR1 (via Veneer)
+<LI><a href="#[8c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer2MR0 (via Veneer)
+<LI><a href="#[6c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiElapsTICs (via Veneer)
+<LI><a href="#[4f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer1MR0 (via Veneer)
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs (via Veneer)
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> ppsinit.o(.text)
+</UL>
+<P><STRONG><a name="[11]"></a>EINT1_Handler</STRONG> (ARM, 268 bytes, Stack size 0 bytes, ppsinit.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf (via Veneer)
+<LI><a href="#[8f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer2MR3 (via Veneer)
+<LI><a href="#[8e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer2MR2 (via Veneer)
+<LI><a href="#[8d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer2MR1 (via Veneer)
+<LI><a href="#[8c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer2MR0 (via Veneer)
+<LI><a href="#[6c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiElapsTICs (via Veneer)
+<LI><a href="#[4f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer1MR0 (via Veneer)
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs (via Veneer)
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> ppsinit.o(.text)
+</UL>
+<P><STRONG><a name="[5c]"></a>EINTInit</STRONG> (Thumb, 116 bytes, Stack size 0 bytes, ppsinit.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[59]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InitHardware
+</UL>
+
+<P><STRONG><a name="[90]"></a>extractLocoPacket</STRONG> (Thumb, 472 bytes, Stack size 0 bytes, loco.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[95]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_idivmod (via Veneer)
+<LI><a href="#[92]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uwrite4 (via Veneer)
+<LI><a href="#[93]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uread4 (via Veneer)
+<LI><a href="#[94]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;rand
+<LI><a href="#[91]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ExtractBits
+<LI><a href="#[51]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitCanPkt
+</UL>
+<BR>[Called By]<UL><LI><a href="#[99]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AnalyzeHeader
+</UL>
+
+<P><STRONG><a name="[96]"></a>getLocoIndex</STRONG> (Thumb, 70 bytes, Stack size 0 bytes, loco.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[93]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uread4 (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[43]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;readCanToStructs
+</UL>
+
+<P><STRONG><a name="[57]"></a>delSigInfoNodes</STRONG> (Thumb, 88 bytes, Stack size 0 bytes, loco.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[93]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uread4 (via Veneer)
+<LI><a href="#[4e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr (via Veneer)
+<LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[98]"></a>getTrnLocoIndex</STRONG> (Thumb, 56 bytes, Stack size 0 bytes, loco.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[97]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;updateTrainLenStat
+<LI><a href="#[43]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;readCanToStructs
+<LI><a href="#[4d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStationPacket
+</UL>
+
+<P><STRONG><a name="[97]"></a>updateTrainLenStat</STRONG> (Thumb, 70 bytes, Stack size 0 bytes, loco.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[6e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uidivmod (via Veneer)
+<LI><a href="#[98]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;getTrnLocoIndex
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs
+</UL>
+<BR>[Called By]<UL><LI><a href="#[43]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;readCanToStructs
+</UL>
+
+<P><STRONG><a name="[48]"></a>updadeTrnLenNodes</STRONG> (Thumb, 52 bytes, Stack size 0 bytes, loco.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[99]"></a>AnalyzeHeader</STRONG> (Thumb, 190 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[93]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uread4 (via Veneer)
+<LI><a href="#[90]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractLocoPacket
+<LI><a href="#[91]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ExtractBits
+</UL>
+<BR>[Called By]<UL><LI><a href="#[58]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processReceiveMessage
+</UL>
+
+<P><STRONG><a name="[9a]"></a>rReadAndFormMessageNoDle</STRONG> (Thumb, 280 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[9c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckMAC
+<LI><a href="#[9b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_common_switch8 (via Veneer)
+<LI><a href="#[88]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckIntegrity
+<LI><a href="#[81]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Comm_ComDataReady
+<LI><a href="#[80]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Comm_ComGetByte
+<LI><a href="#[91]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ExtractBits
+<LI><a href="#[42]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommWatchDogStrobe
+</UL>
+<BR>[Called By]<UL><LI><a href="#[58]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processReceiveMessage
+</UL>
+
+<P><STRONG><a name="[58]"></a>processReceiveMessage</STRONG> (Thumb, 284 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[95]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_idivmod (via Veneer)
+<LI><a href="#[93]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uread4 (via Veneer)
+<LI><a href="#[4e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr (via Veneer)
+<LI><a href="#[9d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memcpy (via Veneer)
+<LI><a href="#[9e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;bcdToDec
+<LI><a href="#[9a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;rReadAndFormMessageNoDle
+<LI><a href="#[99]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AnalyzeHeader
+<LI><a href="#[8a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeCRC
+<LI><a href="#[82]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommTransmitMessage
+<LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InsertBits
+<LI><a href="#[78]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Read_Rtc
+<LI><a href="#[6c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiElapsTICs
+<LI><a href="#[51]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitCanPkt
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[a0]"></a>getFrameNum</STRONG> (Thumb, 78 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[9e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;bcdToDec
+<LI><a href="#[78]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Read_Rtc
+</UL>
+<BR>[Called By]<UL><LI><a href="#[a7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStaticTrackProfilePkt
+<LI><a href="#[4d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStationPacket
+<LI><a href="#[49]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formSlotControlPacket
+<LI><a href="#[50]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formEmergencyPacket
+</UL>
+
+<P><STRONG><a name="[4d]"></a>formStationPacket</STRONG> (Thumb, 1706 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[92]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uwrite4 (via Veneer)
+<LI><a href="#[93]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uread4 (via Veneer)
+<LI><a href="#[4e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr (via Veneer)
+<LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[a1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeMAC_Code
+<LI><a href="#[a0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;getFrameNum
+<LI><a href="#[98]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;getTrnLocoIndex
+<LI><a href="#[8a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeCRC
+<LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InsertBits
+<LI><a href="#[6c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiElapsTICs
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[49]"></a>formSlotControlPacket</STRONG> (Thumb, 510 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[93]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uread4 (via Veneer)
+<LI><a href="#[4e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr (via Veneer)
+<LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[a1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeMAC_Code
+<LI><a href="#[a0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;getFrameNum
+<LI><a href="#[8a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeCRC
+<LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InsertBits
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[50]"></a>formEmergencyPacket</STRONG> (Thumb, 788 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[93]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uread4 (via Veneer)
+<LI><a href="#[4e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr (via Veneer)
+<LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[a0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;getFrameNum
+<LI><a href="#[8a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeCRC
+<LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InsertBits
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[a2]"></a>transmitStnPktToModem</STRONG> (Thumb, 120 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[4e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr (via Veneer)
+<LI><a href="#[9d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memcpy (via Veneer)
+<LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[85]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitMessage_NoDle
+<LI><a href="#[91]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ExtractBits
+</UL>
+<BR>[Called By]<UL><LI><a href="#[44]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processTransmissionToModem
+</UL>
+
+<P><STRONG><a name="[a3]"></a>vfnFireRadioPkt</STRONG> (Thumb, 66 bytes, Stack size 0 bytes, rm.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[a4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnTransmitDataloggerStnPkt
+<LI><a href="#[6b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiPause
+</UL>
+
+<P><STRONG><a name="[44]"></a>processTransmissionToModem</STRONG> (Thumb, 30 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[a2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;transmitStnPktToModem
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[a5]"></a>transmitAccConPktToModem</STRONG> (Thumb, 48 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[85]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitMessage_NoDle
+<LI><a href="#[91]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ExtractBits
+</UL>
+<BR>[Called By]<UL><LI><a href="#[45]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processSlotControlPacketToModem
+</UL>
+
+<P><STRONG><a name="[45]"></a>processSlotControlPacketToModem</STRONG> (Thumb, 36 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[4e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr (via Veneer)
+<LI><a href="#[a5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;transmitAccConPktToModem
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[a6]"></a>processEmergencyPacketToModem</STRONG> (Thumb, 74 bytes, Stack size 0 bytes, rm.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[4e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr (via Veneer)
+<LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[85]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitMessage_NoDle
+<LI><a href="#[91]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ExtractBits
+</UL>
+
+<P><STRONG><a name="[a7]"></a>formStaticTrackProfilePkt</STRONG> (Thumb, 1184 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[6e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uidivmod (via Veneer)
+<LI><a href="#[93]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uread4 (via Veneer)
+<LI><a href="#[4e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr (via Veneer)
+<LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[a1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeMAC_Code
+<LI><a href="#[a0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;getFrameNum
+<LI><a href="#[8a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeCRC
+<LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InsertBits
+</UL>
+<BR>[Called By]<UL><LI><a href="#[43]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;readCanToStructs
+</UL>
+
+<P><STRONG><a name="[53]"></a>SendModemDiagnosticReqASCII</STRONG> (Thumb, 44 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[83]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Comm_ComSendByte
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[a8]"></a>ProcessRmHealthASCIIPkt</STRONG> (Thumb, 2856 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[aa]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strstr
+<LI><a href="#[a9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strtok
+<LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[6c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiElapsTICs
+<LI><a href="#[51]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitCanPkt
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs
+</UL>
+<BR>[Called By]<UL><LI><a href="#[46]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadRMSetupPortASCII
+</UL>
+
+<P><STRONG><a name="[ab]"></a>ReadModemHealthASCII</STRONG> (Thumb, 194 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[81]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Comm_ComDataReady
+<LI><a href="#[80]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Comm_ComGetByte
+</UL>
+<BR>[Called By]<UL><LI><a href="#[46]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadRMSetupPortASCII
+</UL>
+
+<P><STRONG><a name="[46]"></a>ReadRMSetupPortASCII</STRONG> (Thumb, 128 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[ab]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadModemHealthASCII
+<LI><a href="#[a8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ProcessRmHealthASCIIPkt
+<LI><a href="#[6c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiElapsTICs
+<LI><a href="#[51]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitCanPkt
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[ac]"></a>ReadTXReplay</STRONG> (Thumb, 36 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[81]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Comm_ComDataReady
+<LI><a href="#[80]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Comm_ComGetByte
+</UL>
+<BR>[Called By]<UL><LI><a href="#[52]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SendResetCmdToRM
+</UL>
+
+<P><STRONG><a name="[52]"></a>SendResetCmdToRM</STRONG> (Thumb, 68 bytes, Stack size 0 bytes, rm.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[ac]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadTXReplay
+<LI><a href="#[83]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Comm_ComSendByte
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[b7]"></a>CAN_rdMsg</STRONG> (Thumb, 48 bytes, Stack size 0 bytes, can.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[13]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CAN_ISR (via Veneer)
+</UL>
+
+<P><STRONG><a name="[ae]"></a>CAN_setup</STRONG> (Thumb, 124 bytes, Stack size 0 bytes, can.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[64]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;can_Init
+</UL>
+
+<P><STRONG><a name="[b0]"></a>CAN_start</STRONG> (Thumb, 16 bytes, Stack size 0 bytes, can.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[64]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;can_Init
+</UL>
+
+<P><STRONG><a name="[b1]"></a>CAN_waitReady</STRONG> (Thumb, 30 bytes, Stack size 0 bytes, can.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[64]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;can_Init
+</UL>
+
+<P><STRONG><a name="[ad]"></a>CAN_wrMsg</STRONG> (Thumb, 134 bytes, Stack size 0 bytes, can.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs
+</UL>
+<BR>[Called By]<UL><LI><a href="#[b2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CAN_transmit
+</UL>
+
+<P><STRONG><a name="[af]"></a>CAN_wrFilter</STRONG> (Thumb, 404 bytes, Stack size 0 bytes, can.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[64]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;can_Init
+</UL>
+
+<P><STRONG><a name="[64]"></a>can_Init</STRONG> (Thumb, 132 bytes, Stack size 0 bytes, can.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[af]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CAN_wrFilter
+<LI><a href="#[b1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CAN_waitReady
+<LI><a href="#[b0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CAN_start
+<LI><a href="#[ae]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CAN_setup
+</UL>
+<BR>[Called By]<UL><LI><a href="#[59]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InitHardware
+</UL>
+
+<P><STRONG><a name="[b2]"></a>CAN_transmit</STRONG> (Thumb, 46 bytes, Stack size 0 bytes, can.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[ad]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CAN_wrMsg
+</UL>
+<BR>[Called By]<UL><LI><a href="#[b3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;sendCanPkts
+</UL>
+
+<P><STRONG><a name="[b3]"></a>sendCanPkts</STRONG> (Thumb, 46 bytes, Stack size 0 bytes, can.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[b2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CAN_transmit
+</UL>
+<BR>[Called By]<UL><LI><a href="#[51]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitCanPkt
+</UL>
+
+<P><STRONG><a name="[51]"></a>TransmitCanPkt</STRONG> (Thumb, 186 bytes, Stack size 0 bytes, can.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[b3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;sendCanPkts
+<LI><a href="#[9b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_common_switch8 (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;FormAndTransmitGPSData
+<LI><a href="#[a8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ProcessRmHealthASCIIPkt
+<LI><a href="#[90]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractLocoPacket
+<LI><a href="#[58]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processReceiveMessage
+<LI><a href="#[46]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadRMSetupPortASCII
+<LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[b4]"></a>canDataReady</STRONG> (Thumb, 78 bytes, Stack size 0 bytes, can.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[4e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr (via Veneer)
+<LI><a href="#[b5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;memcmp
+</UL>
+<BR>[Called By]<UL><LI><a href="#[43]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;readCanToStructs
+</UL>
+
+<P><STRONG><a name="[43]"></a>readCanToStructs</STRONG> (Thumb, 2480 bytes, Stack size 0 bytes, can.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[93]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uread4 (via Veneer)
+<LI><a href="#[4e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr (via Veneer)
+<LI><a href="#[9d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memcpy (via Veneer)
+<LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[b6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnFormAndTransDataLogSigPkt
+<LI><a href="#[b4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;canDataReady
+<LI><a href="#[9b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_common_switch8 (via Veneer)
+<LI><a href="#[a7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStaticTrackProfilePkt
+<LI><a href="#[97]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;updateTrainLenStat
+<LI><a href="#[98]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;getTrnLocoIndex
+<LI><a href="#[96]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;getLocoIndex
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs
+<LI><a href="#[42]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommWatchDogStrobe
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[60]"></a>timer1Init</STRONG> (Thumb, 44 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[59]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InitHardware
+</UL>
+
+<P><STRONG><a name="[61]"></a>timer2Init</STRONG> (Thumb, 50 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[59]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InitHardware
+</UL>
+
+<P><STRONG><a name="[4f]"></a>loadTimer1MR0</STRONG> (Thumb, 10 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[11]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINT1_Handler (via Veneer)
+<LI><a href="#[12]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINT2_Handler (via Veneer)
+<LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[8c]"></a>loadTimer2MR0</STRONG> (Thumb, 10 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[11]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINT1_Handler (via Veneer)
+<LI><a href="#[12]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINT2_Handler (via Veneer)
+</UL>
+
+<P><STRONG><a name="[8d]"></a>loadTimer2MR1</STRONG> (Thumb, 10 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[11]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINT1_Handler (via Veneer)
+<LI><a href="#[12]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINT2_Handler (via Veneer)
+</UL>
+
+<P><STRONG><a name="[8e]"></a>loadTimer2MR2</STRONG> (Thumb, 10 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[11]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINT1_Handler (via Veneer)
+<LI><a href="#[12]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINT2_Handler (via Veneer)
+</UL>
+
+<P><STRONG><a name="[8f]"></a>loadTimer2MR3</STRONG> (Thumb, 10 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[11]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINT1_Handler (via Veneer)
+<LI><a href="#[12]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINT2_Handler (via Veneer)
+</UL>
+
+<P><STRONG><a name="[bd]"></a>loadTimer3MR0</STRONG> (Thumb, 10 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[4c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ConfigEmergencyPkt
+</UL>
+
+<P><STRONG><a name="[bb]"></a>loadTimer3MR1</STRONG> (Thumb, 10 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[4b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;configSlotControlPkt
+</UL>
+
+<P><STRONG><a name="[bc]"></a>loadTimer3MR2</STRONG> (Thumb, 10 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[4b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;configSlotControlPkt
+</UL>
+
+<P><STRONG><a name="[be]"></a>loadTimer3MR3</STRONG> (Thumb, 10 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[4c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ConfigEmergencyPkt
+</UL>
+
+<P><STRONG><a name="[b8]"></a>loadTimer1MR1</STRONG> (Thumb, 12 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[4a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;configTimers
+</UL>
+
+<P><STRONG><a name="[b9]"></a>loadTimer1MR2</STRONG> (Thumb, 12 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[4a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;configTimers
+</UL>
+
+<P><STRONG><a name="[ba]"></a>loadTimer1MR3</STRONG> (Thumb, 12 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[4a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;configTimers
+</UL>
+
+<P><STRONG><a name="[47]"></a>FrquncyShift_FSToF0</STRONG> (Thumb, 28 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[54]"></a>FrquncyShift_F0ToFS</STRONG> (Thumb, 14 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[62]"></a>timer3Init</STRONG> (Thumb, 70 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[59]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InitHardware
+</UL>
+
+<P><STRONG><a name="[4a]"></a>configTimers</STRONG> (Thumb, 64 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[ba]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer1MR3
+<LI><a href="#[b9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer1MR2
+<LI><a href="#[b8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer1MR1
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[4b]"></a>configSlotControlPkt</STRONG> (Thumb, 60 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[bc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer3MR2
+<LI><a href="#[bb]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer3MR1
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[4c]"></a>ConfigEmergencyPkt</STRONG> (Thumb, 66 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[94]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;rand
+<LI><a href="#[be]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer3MR3
+<LI><a href="#[bd]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;loadTimer3MR0
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[9e]"></a>bcdToDec</STRONG> (Thumb, 14 bytes, Stack size 0 bytes, gps.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[b6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnFormAndTransDataLogSigPkt
+<LI><a href="#[a4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnTransmitDataloggerStnPkt
+<LI><a href="#[a0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;getFrameNum
+<LI><a href="#[58]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processReceiveMessage
+</UL>
+
+<P><STRONG><a name="[bf]"></a>printgpsdata</STRONG> (Thumb, 260 bytes, Stack size 0 bytes, gps.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[95]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_idivmod (via Veneer)
+<LI><a href="#[69]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memcpy4 (via Veneer)
+<LI><a href="#[c0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;memcpy (via Veneer)
+<LI><a href="#[c1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;atoi
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;NetworkTimeSync
+</UL>
+
+<P><STRONG><a name="[c2]"></a>FormAndTransmitGPSData</STRONG> (Thumb, 34 bytes, Stack size 0 bytes, gps.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[51]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitCanPkt
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;NetworkTimeSync
+</UL>
+
+<P><STRONG><a name="[c3]"></a>SetRTCDateTime</STRONG> (Thumb, 244 bytes, Stack size 0 bytes, gps.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[95]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_idivmod (via Veneer)
+<LI><a href="#[69]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memcpy4 (via Veneer)
+<LI><a href="#[c0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;memcpy (via Veneer)
+<LI><a href="#[c1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;atoi
+<LI><a href="#[66]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiRTCSetDateTime
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;NetworkTimeSync
+</UL>
+
+<P><STRONG><a name="[c4]"></a>NetworkTimeSync</STRONG> (Thumb, 100 bytes, Stack size 0 bytes, gps.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[c3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SetRTCDateTime
+<LI><a href="#[c2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;FormAndTransmitGPSData
+<LI><a href="#[bf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;printgpsdata
+<LI><a href="#[6c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiElapsTICs
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs
+</UL>
+<BR>[Called By]<UL><LI><a href="#[56]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadGPSData
+</UL>
+
+<P><STRONG><a name="[c5]"></a>extractGPSData</STRONG> (Thumb, 198 bytes, Stack size 0 bytes, gps.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[c7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_fmul (via Veneer)
+<LI><a href="#[c8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strcat
+<LI><a href="#[a9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strtok
+<LI><a href="#[c6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__0sscanf
+<LI><a href="#[9b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_common_switch8 (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[cf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;GetGPSData
+</UL>
+
+<P><STRONG><a name="[c9]"></a>ComputeChecksum</STRONG> (Thumb, 34 bytes, Stack size 0 bytes, gps.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strlen
+</UL>
+<BR>[Called By]<UL><LI><a href="#[cd]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckSumOk
+</UL>
+
+<P><STRONG><a name="[cb]"></a>StrH2I</STRONG> (Thumb, 92 bytes, Stack size 0 bytes, gps.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[cc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_ctype_table (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[cd]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckSumOk
+</UL>
+
+<P><STRONG><a name="[cd]"></a>CheckSumOk</STRONG> (Thumb, 112 bytes, Stack size 0 bytes, gps.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strlen
+<LI><a href="#[cb]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;StrH2I
+<LI><a href="#[c9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeChecksum
+</UL>
+<BR>[Called By]<UL><LI><a href="#[cf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;GetGPSData
+</UL>
+
+<P><STRONG><a name="[ce]"></a>extractGPSData1</STRONG> (Thumb, 76 bytes, Stack size 0 bytes, gps.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[c8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strcat
+<LI><a href="#[a9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strtok
+<LI><a href="#[c6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__0sscanf
+</UL>
+<BR>[Called By]<UL><LI><a href="#[cf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;GetGPSData
+</UL>
+
+<P><STRONG><a name="[cf]"></a>GetGPSData</STRONG> (Thumb, 206 bytes, Stack size 0 bytes, gps.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[ca]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strlen
+<LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[ce]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractGPSData1
+<LI><a href="#[cd]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckSumOk
+<LI><a href="#[c5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractGPSData
+<LI><a href="#[81]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Comm_ComDataReady
+<LI><a href="#[80]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Comm_ComGetByte
+<LI><a href="#[42]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommWatchDogStrobe
+</UL>
+<BR>[Called By]<UL><LI><a href="#[56]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadGPSData
+</UL>
+
+<P><STRONG><a name="[56]"></a>ReadGPSData</STRONG> (Thumb, 44 bytes, Stack size 0 bytes, gps.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr4 (via Veneer)
+<LI><a href="#[cf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;GetGPSData
+<LI><a href="#[c4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;NetworkTimeSync
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs
+</UL>
+<BR>[Called By]<UL><LI><a href="#[65]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiRTCInit
+<LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[d0]"></a>DetectSpike</STRONG> (Thumb, 82 bytes, Stack size 0 bytes, gps.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[6c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiElapsTICs
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs
+</UL>
+
+<P><STRONG><a name="[b6]"></a>vfnFormAndTransDataLogSigPkt</STRONG> (Thumb, 208 bytes, Stack size 0 bytes, datalogger.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[95]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_idivmod (via Veneer)
+<LI><a href="#[9e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;bcdToDec
+<LI><a href="#[8a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeCRC
+<LI><a href="#[82]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommTransmitMessage
+<LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InsertBits
+<LI><a href="#[78]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Read_Rtc
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs
+</UL>
+<BR>[Called By]<UL><LI><a href="#[43]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;readCanToStructs
+</UL>
+
+<P><STRONG><a name="[a4]"></a>vfnTransmitDataloggerStnPkt</STRONG> (Thumb, 158 bytes, Stack size 0 bytes, datalogger.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[95]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_idivmod (via Veneer)
+<LI><a href="#[9e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;bcdToDec
+<LI><a href="#[8a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeCRC
+<LI><a href="#[82]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommTransmitMessage
+<LI><a href="#[9f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InsertBits
+<LI><a href="#[91]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ExtractBits
+<LI><a href="#[78]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Read_Rtc
+<LI><a href="#[55]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiGetSysTICs
+</UL>
+<BR>[Called By]<UL><LI><a href="#[a3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnFireRadioPkt
+</UL>
+
+<P><STRONG><a name="[d1]"></a>processAuthenticationKeyRequest</STRONG> (Thumb, 74 bytes, Stack size 0 bytes, datalogger.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[8a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeCRC
+</UL>
+
+<P><STRONG><a name="[d7]"></a>AES128_CBC_encrypt_buffer</STRONG> (Thumb, 148 bytes, Stack size 0 bytes, encrpt.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[4e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr (via Veneer)
+<LI><a href="#[d8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;BlockCopy
+<LI><a href="#[d9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;KeyExpansion
+<LI><a href="#[d2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Cipher
+</UL>
+<BR>[Called By]<UL><LI><a href="#[a1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeMAC_Code
+</UL>
+
+<P><STRONG><a name="[da]"></a>ComputeRandom16Byte</STRONG> (Thumb, 64 bytes, Stack size 0 bytes, encrpt.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[a1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeMAC_Code
+</UL>
+
+<P><STRONG><a name="[a1]"></a>ComputeMAC_Code</STRONG> (Thumb, 350 bytes, Stack size 0 bytes, encrpt.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[93]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uread4 (via Veneer)
+<LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[da]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeRandom16Byte
+<LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AES128_CBC_encrypt_buffer
+<LI><a href="#[d8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;BlockCopy
+<LI><a href="#[8b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;GetCRC16
+<LI><a href="#[42]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CommWatchDogStrobe
+</UL>
+<BR>[Called By]<UL><LI><a href="#[9c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckMAC
+<LI><a href="#[a7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStaticTrackProfilePkt
+<LI><a href="#[4d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStationPacket
+<LI><a href="#[49]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formSlotControlPacket
+</UL>
+
+<P><STRONG><a name="[9c]"></a>CheckMAC</STRONG> (Thumb, 136 bytes, Stack size 0 bytes, encrpt.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[93]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uread4 (via Veneer)
+<LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+<LI><a href="#[a1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeMAC_Code
+<LI><a href="#[91]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ExtractBits
+</UL>
+<BR>[Called By]<UL><LI><a href="#[9a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;rReadAndFormMessageNoDle
+</UL>
+
+<P><STRONG><a name="[cc]"></a>__rt_ctype_table</STRONG> (ARM, 24 bytes, Stack size 0 bytes, rt_ctype_table.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[30]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_locale
+</UL>
+<BR>[Called By]<UL><LI><a href="#[ea]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strtol (via Veneer)
+<LI><a href="#[cb]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;StrH2I (via Veneer)
+<LI><a href="#[1c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;isspace (via Veneer)
+</UL>
+
+<P><STRONG><a name="[3f]"></a>__2printf</STRONG> (Thumb, 22 bytes, Stack size 0 bytes, noretval__2printf.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[db]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_char_file
+</UL>
+<BR>[Called By]<UL><LI><a href="#[d1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processAuthenticationKeyRequest
+<LI><a href="#[cf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;GetGPSData
+<LI><a href="#[16]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TIMER3_ISR (via Veneer)
+<LI><a href="#[ad]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CAN_wrMsg
+<LI><a href="#[a1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeMAC_Code
+<LI><a href="#[9c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckMAC
+<LI><a href="#[ac]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadTXReplay
+<LI><a href="#[a8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ProcessRmHealthASCIIPkt
+<LI><a href="#[a7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStaticTrackProfilePkt
+<LI><a href="#[a6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processEmergencyPacketToModem
+<LI><a href="#[a5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;transmitAccConPktToModem
+<LI><a href="#[a2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;transmitStnPktToModem
+<LI><a href="#[9a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;rReadAndFormMessageNoDle
+<LI><a href="#[11]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;EINT1_Handler (via Veneer)
+<LI><a href="#[89]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckCRC
+<LI><a href="#[5f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;getMIESlotNumber
+<LI><a href="#[59]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;InitHardware
+<LI><a href="#[43]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;readCanToStructs
+<LI><a href="#[4d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStationPacket
+<LI><a href="#[49]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formSlotControlPacket
+<LI><a href="#[50]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formEmergencyPacket
+<LI><a href="#[57]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;delSigInfoNodes
+<LI><a href="#[51]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitCanPkt
+<LI><a href="#[53]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SendModemDiagnosticReqASCII
+<LI><a href="#[40]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckCrcOnStartup
+<LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main
+</UL>
+
+<P><STRONG><a name="[dc]"></a>_printf_str</STRONG> (Thumb, 88 bytes, Stack size 0 bytes, _printf_str.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[dd]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_pre_padding (Weak Reference)
+<LI><a href="#[df]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_post_padding (Weak Reference)
+<LI><a href="#[de]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_common_call_via_r2
+</UL>
+<BR>[Called By]<UL><LI><a href="#[f0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_cs_common
+</UL>
+
+<P><STRONG><a name="[23]"></a>_printf_int_dec</STRONG> (Thumb, 94 bytes, Stack size 0 bytes, _printf_dec.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[e2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_udiv10 (via Veneer)
+<LI><a href="#[e3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_int_common
+<LI><a href="#[e1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_truncate_unsigned (Weak Reference)
+<LI><a href="#[e0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_truncate_signed (Weak Reference)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[24]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_u (via Veneer)
+<LI><a href="#[22]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_d (via Veneer)
+</UL>
+
+<P><STRONG><a name="[26]"></a>_printf_int_hex</STRONG> (Thumb, 88 bytes, Stack size 0 bytes, _printf_hex_int.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[e3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_int_common
+<LI><a href="#[e1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_truncate_unsigned (Weak Reference)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[25]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_x (via Veneer)
+</UL>
+
+<P><STRONG><a name="[e4]"></a>__printf</STRONG> (Thumb, 206 bytes, Stack size 0 bytes, __printf_ss.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[e6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_percent (via Veneer)
+<LI><a href="#[de]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_common_call_via_r2
+<LI><a href="#[e5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_common_call_via_r1
+</UL>
+<BR>[Called By]<UL><LI><a href="#[f2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_char_common
+</UL>
+
+<P><STRONG><a name="[c6]"></a>__0sscanf</STRONG> (Thumb, 54 bytes, Stack size 0 bytes, __0sscanf.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[e7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__vfscanf_char
+</UL>
+<BR>[Called By]<UL><LI><a href="#[ce]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractGPSData1
+<LI><a href="#[c5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractGPSData
+</UL>
+
+<P><STRONG><a name="[e8]"></a>_scanf_string</STRONG> (Thumb, 242 bytes, Stack size 0 bytes, _scanf_str.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[e5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_common_call_via_r1
+</UL>
+<BR>[Called By]<UL><LI><a href="#[fe]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__vfscanf
+</UL>
+
+<P><STRONG><a name="[c1]"></a>atoi</STRONG> (Thumb, 30 bytes, Stack size 0 bytes, atoi.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[ea]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strtol
+<LI><a href="#[e9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_errno_addr (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SetRTCDateTime
+<LI><a href="#[bf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;printgpsdata
+</UL>
+
+<P><STRONG><a name="[eb]"></a>srand</STRONG> (Thumb, 48 bytes, Stack size 0 bytes, rand.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[2e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_rand_init
+</UL>
+
+<P><STRONG><a name="[2e]"></a>_rand_init</STRONG> (Thumb, 4 bytes, Stack size 0 bytes, rand.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[eb]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;srand
+</UL>
+<BR>[Called By]<UL><LI><a href="#[2d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_lib_init_rand_2
+</UL>
+
+<P><STRONG><a name="[a9]"></a>strtok</STRONG> (Thumb, 14 bytes, Stack size 0 bytes, strtok.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[ec]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__strtok_internal
+</UL>
+<BR>[Called By]<UL><LI><a href="#[ce]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractGPSData1
+<LI><a href="#[c5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractGPSData
+<LI><a href="#[a8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ProcessRmHealthASCIIPkt
+</UL>
+
+<P><STRONG><a name="[aa]"></a>strstr</STRONG> (Thumb, 42 bytes, Stack size 0 bytes, strstr.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[a8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ProcessRmHealthASCIIPkt
+</UL>
+
+<P><STRONG><a name="[b5]"></a>memcmp</STRONG> (Thumb, 118 bytes, Stack size 0 bytes, memcmp.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[b4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;canDataReady
+</UL>
+
+<P><STRONG><a name="[ca]"></a>strlen</STRONG> (Thumb, 64 bytes, Stack size 0 bytes, strlen.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[cf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;GetGPSData
+<LI><a href="#[cd]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckSumOk
+<LI><a href="#[c9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeChecksum
+</UL>
+
+<P><STRONG><a name="[c8]"></a>strcat</STRONG> (Thumb, 24 bytes, Stack size 0 bytes, strcat.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[ce]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractGPSData1
+<LI><a href="#[c5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractGPSData
+</UL>
+
+<P><STRONG><a name="[c0]"></a>memcpy</STRONG> (ARM, 16 bytes, Stack size 0 bytes, memcpy.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[9d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memcpy
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SetRTCDateTime (via Veneer)
+<LI><a href="#[bf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;printgpsdata (via Veneer)
+</UL>
+
+<P><STRONG><a name="[9d]"></a>__aeabi_memcpy</STRONG> (ARM, 0 bytes, Stack size 0 bytes, rt_memcpy.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[c0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;memcpy
+<LI><a href="#[a2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;transmitStnPktToModem (via Veneer)
+<LI><a href="#[43]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;readCanToStructs (via Veneer)
+<LI><a href="#[58]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processReceiveMessage (via Veneer)
+</UL>
+
+<P><STRONG><a name="[ed]"></a>__rt_memcpy</STRONG> (ARM, 212 bytes, Stack size 0 bytes, rt_memcpy.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[69]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memcpy4
+</UL>
+
+<P><STRONG><a name="[69]"></a>__aeabi_memcpy4</STRONG> (ARM, 0 bytes, Stack size 0 bytes, rt_memcpy_w.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[ed]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_memcpy
+<LI><a href="#[c3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SetRTCDateTime (via Veneer)
+<LI><a href="#[bf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;printgpsdata (via Veneer)
+<LI><a href="#[68]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiRTCGetDateTime (via Veneer)
+</UL>
+
+<P><STRONG><a name="[4e]"></a>__aeabi_memclr</STRONG> (ARM, 0 bytes, Stack size 0 bytes, rt_memclr.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AES128_CBC_encrypt_buffer (via Veneer)
+<LI><a href="#[b4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;canDataReady (via Veneer)
+<LI><a href="#[a7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStaticTrackProfilePkt (via Veneer)
+<LI><a href="#[a6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processEmergencyPacketToModem (via Veneer)
+<LI><a href="#[a2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;transmitStnPktToModem (via Veneer)
+<LI><a href="#[43]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;readCanToStructs (via Veneer)
+<LI><a href="#[45]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processSlotControlPacketToModem (via Veneer)
+<LI><a href="#[58]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processReceiveMessage (via Veneer)
+<LI><a href="#[4d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStationPacket (via Veneer)
+<LI><a href="#[49]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formSlotControlPacket (via Veneer)
+<LI><a href="#[50]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formEmergencyPacket (via Veneer)
+<LI><a href="#[57]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;delSigInfoNodes (via Veneer)
+<LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main (via Veneer)
+</UL>
+
+<P><STRONG><a name="[ee]"></a>__rt_memclr</STRONG> (ARM, 64 bytes, Stack size 0 bytes, rt_memclr.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[ef]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_memset_w
+</UL>
+
+<P><STRONG><a name="[3d]"></a>__aeabi_memclr4</STRONG> (ARM, 0 bytes, Stack size 0 bytes, rt_memclr_w.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Spoi_SerialIoIrq0
+<LI><a href="#[6f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Spoi_InitUartBuffers (via Veneer)
+<LI><a href="#[56]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ReadGPSData (via Veneer)
+<LI><a href="#[c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;main (via Veneer)
+</UL>
+
+<P><STRONG><a name="[ef]"></a>_memset_w</STRONG> (ARM, 0 bytes, Stack size 0 bytes, rt_memclr_w.o(.text), UNUSED)
+<BR><BR>[Called By]<UL><LI><a href="#[ee]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_memclr
+</UL>
+
+<P><STRONG><a name="[93]"></a>__aeabi_uread4</STRONG> (ARM, 0 bytes, Stack size 0 bytes, uread4.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[a1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeMAC_Code (via Veneer)
+<LI><a href="#[9c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CheckMAC (via Veneer)
+<LI><a href="#[a7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStaticTrackProfilePkt (via Veneer)
+<LI><a href="#[99]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AnalyzeHeader (via Veneer)
+<LI><a href="#[96]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;getLocoIndex (via Veneer)
+<LI><a href="#[90]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractLocoPacket (via Veneer)
+<LI><a href="#[43]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;readCanToStructs (via Veneer)
+<LI><a href="#[58]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processReceiveMessage (via Veneer)
+<LI><a href="#[4d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStationPacket (via Veneer)
+<LI><a href="#[49]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formSlotControlPacket (via Veneer)
+<LI><a href="#[50]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formEmergencyPacket (via Veneer)
+<LI><a href="#[57]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;delSigInfoNodes (via Veneer)
+</UL>
+
+<P><STRONG><a name="[92]"></a>__aeabi_uwrite4</STRONG> (ARM, 0 bytes, Stack size 0 bytes, uwrite4.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[90]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractLocoPacket (via Veneer)
+<LI><a href="#[4d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStationPacket (via Veneer)
+</UL>
+
+<P><STRONG><a name="[95]"></a>__aeabi_idivmod</STRONG> (ARM, 384 bytes, Stack size 0 bytes, aeabi_sdiv.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[c3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SetRTCDateTime (via Veneer)
+<LI><a href="#[bf]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;printgpsdata (via Veneer)
+<LI><a href="#[b6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnFormAndTransDataLogSigPkt (via Veneer)
+<LI><a href="#[a4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;vfnTransmitDataloggerStnPkt (via Veneer)
+<LI><a href="#[90]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractLocoPacket (via Veneer)
+<LI><a href="#[58]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;processReceiveMessage (via Veneer)
+<LI><a href="#[f6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_etento (via Veneer)
+</UL>
+
+<P><STRONG><a name="[30]"></a>__rt_locale</STRONG> (ARM, 12 bytes, Stack size 0 bytes, rt_locale_intlibspace.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[2f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_lib_init_lc_common (via Veneer)
+<LI><a href="#[f9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_real (via Veneer)
+<LI><a href="#[cc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_ctype_table
+</UL>
+
+<P><STRONG><a name="[e9]"></a>__aeabi_errno_addr</STRONG> (ARM, 12 bytes, Stack size 0 bytes, rt_errno_addr_intlibspace.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[ea]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strtol (via Veneer)
+<LI><a href="#[f4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_fp_value (via Veneer)
+<LI><a href="#[c1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;atoi (via Veneer)
+<LI><a href="#[10e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__set_errno (via Veneer)
+<LI><a href="#[10d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__read_errno (via Veneer)
+<LI><a href="#[ff]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_strtoul (via Veneer)
+</UL>
+
+<P><STRONG><a name="[e3]"></a>_printf_int_common</STRONG> (Thumb, 186 bytes, Stack size 0 bytes, _printf_intcommon.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[dd]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_pre_padding (Weak Reference)
+<LI><a href="#[df]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_post_padding (Weak Reference)
+<LI><a href="#[de]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_common_call_via_r2
+</UL>
+<BR>[Called By]<UL><LI><a href="#[26]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_int_hex
+<LI><a href="#[23]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_int_dec
+</UL>
+
+<P><STRONG><a name="[f0]"></a>_printf_cs_common</STRONG> (Thumb, 26 bytes, Stack size 0 bytes, _printf_char.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[f1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_mbtowc (Weak Reference)
+<LI><a href="#[dc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_str
+</UL>
+<BR>[Called By]<UL><LI><a href="#[2a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_string
+<LI><a href="#[28]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_char
+</UL>
+
+<P><STRONG><a name="[28]"></a>_printf_char</STRONG> (Thumb, 16 bytes, Stack size 0 bytes, _printf_char.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[f0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_cs_common
+</UL>
+<BR>[Called By]<UL><LI><a href="#[27]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_c (via Veneer)
+</UL>
+
+<P><STRONG><a name="[2a]"></a>_printf_string</STRONG> (Thumb, 8 bytes, Stack size 0 bytes, _printf_char.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[f0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_cs_common
+</UL>
+<BR>[Called By]<UL><LI><a href="#[29]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_s (via Veneer)
+</UL>
+
+<P><STRONG><a name="[db]"></a>_printf_char_file</STRONG> (Thumb, 38 bytes, Stack size 0 bytes, _printf_char_file.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[f3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ferror
+<LI><a href="#[f2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_char_common
+</UL>
+<BR>[Called By]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf
+</UL>
+
+<P><STRONG><a name="[f9]"></a>_scanf_really_real</STRONG> (Thumb, 734 bytes, Stack size 0 bytes, scanf_fp.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[f4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_fp_value
+<LI><a href="#[30]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_locale (via Veneer)
+<LI><a href="#[fc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_is_digit
+<LI><a href="#[e5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_common_call_via_r1
+<LI><a href="#[fd]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__mathlib_narrow (via Veneer)
+<LI><a href="#[fa]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_infnan (via Veneer)
+<LI><a href="#[fb]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_hex_real (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[102]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_real (via Veneer)
+</UL>
+
+<P><STRONG><a name="[e7]"></a>__vfscanf_char</STRONG> (Thumb, 34 bytes, Stack size 0 bytes, scanf_char.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[fe]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__vfscanf
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__0sscanf
+</UL>
+
+<P><STRONG><a name="[18]"></a>_sgetc</STRONG> (Thumb, 32 bytes, Stack size 0 bytes, _sgetc.o(.text))
+<BR>[Address Reference Count : 1]<UL><LI> __0sscanf.o(.text)
+</UL>
+<P><STRONG><a name="[19]"></a>_sbackspace</STRONG> (Thumb, 38 bytes, Stack size 0 bytes, _sgetc.o(.text))
+<BR>[Address Reference Count : 1]<UL><LI> __0sscanf.o(.text)
+</UL>
+<P><STRONG><a name="[ea]"></a>strtol</STRONG> (Thumb, 112 bytes, Stack size 0 bytes, strtol.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[e9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_errno_addr (via Veneer)
+<LI><a href="#[cc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_ctype_table (via Veneer)
+<LI><a href="#[ff]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_strtoul
+</UL>
+<BR>[Called By]<UL><LI><a href="#[c1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;atoi
+</UL>
+
+<P><STRONG><a name="[ec]"></a>__strtok_internal</STRONG> (Thumb, 72 bytes, Stack size 0 bytes, strtok_int.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[100]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strspn
+<LI><a href="#[101]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strcspn
+</UL>
+<BR>[Called By]<UL><LI><a href="#[a9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strtok
+</UL>
+
+<P><STRONG><a name="[e2]"></a>__rt_udiv10</STRONG> (ARM, 44 bytes, Stack size 0 bytes, rtudiv10.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[23]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_int_dec (via Veneer)
+</UL>
+
+<P><STRONG><a name="[10b]"></a>__user_perproc_libspace</STRONG> (ARM, 0 bytes, Stack size 0 bytes, libspace.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[35]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__user_setup_stackheap
+</UL>
+
+<P><STRONG><a name="[f5]"></a>__aeabi_lmul</STRONG> (ARM, 0 bytes, Stack size 0 bytes, llmul.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[f4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_fp_value (via Veneer)
+</UL>
+
+<P><STRONG><a name="[1c]"></a>isspace</STRONG> (Thumb, 22 bytes, Stack size 0 bytes, isspace.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[cc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_ctype_table (via Veneer)
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> scanf_char.o(.text)
+</UL>
+<P><STRONG><a name="[f2]"></a>_printf_char_common</STRONG> (Thumb, 34 bytes, Stack size 0 bytes, _printf_char_common.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[e4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__printf
+</UL>
+<BR>[Called By]<UL><LI><a href="#[db]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_char_file
+</UL>
+
+<P><STRONG><a name="[fe]"></a>__vfscanf</STRONG> (Thumb, 948 bytes, Stack size 0 bytes, _scanf.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[102]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_real (via Veneer)
+<LI><a href="#[e8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_string
+<LI><a href="#[de]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_common_call_via_r2
+<LI><a href="#[e5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_common_call_via_r1
+<LI><a href="#[105]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_wstring (Weak Reference)
+<LI><a href="#[107]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_wctomb (Weak Reference)
+<LI><a href="#[106]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_mbtowc (Weak Reference)
+<LI><a href="#[103]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_longlong (Weak Reference)
+<LI><a href="#[104]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_int (Weak Reference)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[e7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__vfscanf_char
+</UL>
+
+<P><STRONG><a name="[ff]"></a>_strtoul</STRONG> (Thumb, 172 bytes, Stack size 0 bytes, _strtoul.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[e9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_errno_addr (via Veneer)
+<LI><a href="#[108]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_chval
+</UL>
+<BR>[Called By]<UL><LI><a href="#[ea]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strtol
+</UL>
+
+<P><STRONG><a name="[f6]"></a>_btod_etento</STRONG> (Thumb, 210 bytes, Stack size 0 bytes, bigflt0.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[95]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_idivmod (via Veneer)
+<LI><a href="#[109]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_emul (via Veneer)
+<LI><a href="#[10a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_ediv (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[f4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_fp_value
+</UL>
+
+<P><STRONG><a name="[101]"></a>strcspn</STRONG> (Thumb, 36 bytes, Stack size 0 bytes, strcspn.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[ec]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__strtok_internal
+</UL>
+
+<P><STRONG><a name="[100]"></a>strspn</STRONG> (Thumb, 34 bytes, Stack size 0 bytes, strspn.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[ec]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__strtok_internal
+</UL>
+
+<P><STRONG><a name="[125]"></a>strcmp</STRONG> (ARM, 156 bytes, Stack size 0 bytes, strcmp.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[17]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_get_lc_ctype
+<LI><a href="#[33]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_get_lc_numeric
+</UL>
+
+<P><STRONG><a name="[35]"></a>__user_setup_stackheap</STRONG> (ARM, 96 bytes, Stack size 0 bytes, sys_stackheap_outer.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[10c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__user_initial_stackheap
+<LI><a href="#[10b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__user_perproc_libspace
+</UL>
+<BR>[Called By]<UL><LI><a href="#[34]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_entry_sh
+</UL>
+
+<P><STRONG><a name="[10d]"></a>__read_errno</STRONG> (Thumb, 14 bytes, Stack size 0 bytes, _rserrno.o(.text), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[e9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_errno_addr (via Veneer)
+</UL>
+
+<P><STRONG><a name="[10e]"></a>__set_errno</STRONG> (Thumb, 12 bytes, Stack size 0 bytes, _rserrno.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[e9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_errno_addr (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[124]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ldexp (via Veneer)
+<LI><a href="#[11f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__mathlib_tofloat (via Veneer)
+</UL>
+
+<P><STRONG><a name="[108]"></a>_chval</STRONG> (Thumb, 30 bytes, Stack size 0 bytes, _chval.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[10f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_hex_real
+<LI><a href="#[ff]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_strtoul
+</UL>
+
+<P><STRONG><a name="[10f]"></a>_scanf_really_hex_real</STRONG> (Thumb, 814 bytes, Stack size 0 bytes, scanf_hexfp.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[e5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_common_call_via_r1
+<LI><a href="#[111]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__support_ldexp (via Veneer)
+<LI><a href="#[110]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_llsl (via Veneer)
+<LI><a href="#[108]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_chval
+<LI><a href="#[fd]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__mathlib_narrow (via Veneer)
+<LI><a href="#[2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ieee_status (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[fb]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_hex_real (via Veneer)
+</UL>
+
+<P><STRONG><a name="[112]"></a>_scanf_really_infnan</STRONG> (Thumb, 322 bytes, Stack size 0 bytes, scanf_infnan.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[e5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_common_call_via_r1
+</UL>
+<BR>[Called By]<UL><LI><a href="#[fa]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_infnan (via Veneer)
+</UL>
+
+<P><STRONG><a name="[38]"></a>exit</STRONG> (Thumb, 12 bytes, Stack size 0 bytes, exit.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[114]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_exit (via Veneer)
+<LI><a href="#[113]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_call_atexit_fns (Weak Reference)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[37]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_entry_main
+</UL>
+
+<P><STRONG><a name="[110]"></a>__aeabi_llsl</STRONG> (ARM, 0 bytes, Stack size 0 bytes, llshl.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[10f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_hex_real (via Veneer)
+</UL>
+
+<P><STRONG><a name="[132]"></a>__rt_fp_status_addr</STRONG> (ARM, 12 bytes, Stack size 0 bytes, rt_fp_status_addr_intlibspace.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[2c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_fp_init
+</UL>
+
+<P><STRONG><a name="[6e]"></a>__aeabi_uidivmod</STRONG> (ARM, 36 bytes, Stack size 0 bytes, aeabi_sdiv.o(.text_udiv))
+<BR><BR>[Calls]<UL><LI><a href="#[118]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__arm_div_large
+<LI><a href="#[115]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__arm_div2
+<LI><a href="#[116]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__arm_div5
+<LI><a href="#[117]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__arm_div8
+</UL>
+<BR>[Called By]<UL><LI><a href="#[a7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;formStaticTrackProfilePkt (via Veneer)
+<LI><a href="#[97]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;updateTrainLenStat (via Veneer)
+<LI><a href="#[71]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;convert (via Veneer)
+<LI><a href="#[6d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Spoi_Uart_Baudrate (via Veneer)
+</UL>
+
+<P><STRONG><a name="[11b]"></a>__btod_div_common</STRONG> (ARM, 716 bytes, Stack size 0 bytes, btod.o(CL$$btod_div_common))
+<BR><BR>[Called By]<UL><LI><a href="#[f8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_edivd
+<LI><a href="#[10a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_ediv
+</UL>
+
+<P><STRONG><a name="[119]"></a>_e2d</STRONG> (ARM, 96 bytes, Stack size 0 bytes, btod.o(CL$$btod_e2d))
+<BR><BR>[Calls]<UL><LI><a href="#[11a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_e2e
+</UL>
+<BR>[Called By]<UL><LI><a href="#[f7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_emuld
+<LI><a href="#[f8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_edivd
+</UL>
+
+<P><STRONG><a name="[11a]"></a>_e2e</STRONG> (ARM, 220 bytes, Stack size 0 bytes, btod.o(CL$$btod_e2e))
+<BR><BR>[Called By]<UL><LI><a href="#[109]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_emul
+<LI><a href="#[10a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_ediv
+<LI><a href="#[119]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_e2d
+</UL>
+
+<P><STRONG><a name="[10a]"></a>_btod_ediv</STRONG> (ARM, 52 bytes, Stack size 0 bytes, btod.o(CL$$btod_ediv))
+<BR><BR>[Calls]<UL><LI><a href="#[11a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_e2e
+<LI><a href="#[11b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__btod_div_common
+</UL>
+<BR>[Called By]<UL><LI><a href="#[f6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_etento (via Veneer)
+</UL>
+
+<P><STRONG><a name="[f8]"></a>_btod_edivd</STRONG> (ARM, 52 bytes, Stack size 0 bytes, btod.o(CL$$btod_edivd))
+<BR><BR>[Calls]<UL><LI><a href="#[119]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_e2d
+<LI><a href="#[11b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__btod_div_common
+</UL>
+<BR>[Called By]<UL><LI><a href="#[f4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_fp_value (via Veneer)
+</UL>
+
+<P><STRONG><a name="[109]"></a>_btod_emul</STRONG> (ARM, 52 bytes, Stack size 0 bytes, btod.o(CL$$btod_emul))
+<BR><BR>[Calls]<UL><LI><a href="#[11c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__btod_mult_common
+<LI><a href="#[11a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_e2e
+</UL>
+<BR>[Called By]<UL><LI><a href="#[f6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_etento (via Veneer)
+</UL>
+
+<P><STRONG><a name="[f7]"></a>_btod_emuld</STRONG> (ARM, 52 bytes, Stack size 0 bytes, btod.o(CL$$btod_emuld))
+<BR><BR>[Calls]<UL><LI><a href="#[11c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__btod_mult_common
+<LI><a href="#[119]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_e2d
+</UL>
+<BR>[Called By]<UL><LI><a href="#[f4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_fp_value (via Veneer)
+</UL>
+
+<P><STRONG><a name="[11c]"></a>__btod_mult_common</STRONG> (ARM, 616 bytes, Stack size 0 bytes, btod.o(CL$$btod_mult_common))
+<BR><BR>[Called By]<UL><LI><a href="#[f7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_emuld
+<LI><a href="#[109]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_emul
+</UL>
+
+<P><STRONG><a name="[e5]"></a>__ARM_common_call_via_r1</STRONG> (Thumb, 2 bytes, Stack size 0 bytes, __printf.o(i.__ARM_common_call_via_r1))
+<BR><BR>[Called By]<UL><LI><a href="#[f9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_real
+<LI><a href="#[e8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_string
+<LI><a href="#[e4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__printf
+<LI><a href="#[112]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_infnan
+<LI><a href="#[10f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_hex_real
+<LI><a href="#[fe]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__vfscanf
+</UL>
+
+<P><STRONG><a name="[de]"></a>__ARM_common_call_via_r2</STRONG> (Thumb, 2 bytes, Stack size 0 bytes, __printf.o(i.__ARM_common_call_via_r2))
+<BR><BR>[Called By]<UL><LI><a href="#[e3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_int_common
+<LI><a href="#[e4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__printf
+<LI><a href="#[dc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_str
+<LI><a href="#[fe]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__vfscanf
+</UL>
+
+<P><STRONG><a name="[9b]"></a>__ARM_common_switch8</STRONG> (ARM, 24 bytes, Stack size 0 bytes, rm.o(i.__ARM_common_switch8))
+<BR><BR>[Called By]<UL><LI><a href="#[c5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractGPSData (via Veneer)
+<LI><a href="#[9a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;rReadAndFormMessageNoDle (via Veneer)
+<LI><a href="#[43]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;readCanToStructs (via Veneer)
+<LI><a href="#[51]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;TransmitCanPkt (via Veneer)
+</UL>
+
+<P><STRONG><a name="[11d]"></a>__mathlib_dbl_underflow</STRONG> (ARM, 20 bytes, Stack size 0 bytes, dunder.o(i.__mathlib_dbl_underflow))
+<BR><BR>[Calls]<UL><LI><a href="#[11e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_scalbn
+</UL>
+<BR>[Called By]<UL><LI><a href="#[124]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ldexp
+</UL>
+
+<P><STRONG><a name="[fd]"></a>__mathlib_narrow</STRONG> (ARM, 28 bytes, Stack size 0 bytes, narrow.o(i.__mathlib_narrow))
+<BR><BR>[Calls]<UL><LI><a href="#[11f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__mathlib_tofloat
+</UL>
+<BR>[Called By]<UL><LI><a href="#[f9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_real (via Veneer)
+<LI><a href="#[10f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_hex_real (via Veneer)
+</UL>
+
+<P><STRONG><a name="[11f]"></a>__mathlib_tofloat</STRONG> (ARM, 216 bytes, Stack size 0 bytes, narrow.o(i.__mathlib_tofloat))
+<BR><BR>[Calls]<UL><LI><a href="#[120]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;frexp
+<LI><a href="#[123]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_cdrcmple
+<LI><a href="#[121]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_cdcmpeq
+<LI><a href="#[122]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_d2f
+<LI><a href="#[10e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__set_errno (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[fd]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__mathlib_narrow
+</UL>
+
+<P><STRONG><a name="[111]"></a>__support_ldexp</STRONG> (ARM, 36 bytes, Stack size 0 bytes, ldexp.o(i.__support_ldexp))
+<BR><BR>[Calls]<UL><LI><a href="#[124]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ldexp
+</UL>
+<BR>[Called By]<UL><LI><a href="#[10f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_hex_real (via Veneer)
+</UL>
+
+<P><STRONG><a name="[fc]"></a>_is_digit</STRONG> (Thumb, 14 bytes, Stack size 0 bytes, __printf_wp.o(i._is_digit))
+<BR><BR>[Called By]<UL><LI><a href="#[f9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_real
+</UL>
+
+<P><STRONG><a name="[120]"></a>frexp</STRONG> (ARM, 128 bytes, Stack size 0 bytes, frexp.o(i.frexp))
+<BR><BR>[Calls]<UL><LI><a href="#[11e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_scalbn
+</UL>
+<BR>[Called By]<UL><LI><a href="#[11f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__mathlib_tofloat
+</UL>
+
+<P><STRONG><a name="[124]"></a>ldexp</STRONG> (ARM, 212 bytes, Stack size 0 bytes, ldexp.o(i.ldexp))
+<BR><BR>[Calls]<UL><LI><a href="#[11d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__mathlib_dbl_underflow
+<LI><a href="#[11e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_scalbn
+<LI><a href="#[121]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_cdcmpeq
+<LI><a href="#[10e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__set_errno (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[111]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__support_ldexp
+</UL>
+
+<P><STRONG><a name="[17]"></a>_get_lc_ctype</STRONG> (ARM, 80 bytes, Stack size 0 bytes, lc_ctype_c.o(locale$$code))
+<BR><BR>[Calls]<UL><LI><a href="#[125]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strcmp
+</UL>
+<BR>[Called By]<UL><LI><a href="#[31]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_lib_init_lc_ctype_2 (via Veneer)
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> rt_ctype_table.o(.text)
+</UL>
+<P><STRONG><a name="[33]"></a>_get_lc_numeric</STRONG> (ARM, 80 bytes, Stack size 0 bytes, lc_numeric_c.o(locale$$code))
+<BR><BR>[Calls]<UL><LI><a href="#[125]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;strcmp
+</UL>
+<BR>[Called By]<UL><LI><a href="#[32]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_lib_init_lc_numeric_2 (via Veneer)
+</UL>
+
+<P><STRONG><a name="[122]"></a>__aeabi_d2f</STRONG> (ARM, 0 bytes, Stack size 0 bytes, d2f.o(x$fpl$d2f))
+<BR><BR>[Called By]<UL><LI><a href="#[11f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__mathlib_tofloat
+</UL>
+
+<P><STRONG><a name="[126]"></a>_d2f</STRONG> (ARM, 108 bytes, Stack size 0 bytes, d2f.o(x$fpl$d2f), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[128]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__fpl_dnaninf
+<LI><a href="#[127]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__fpl_fretinf
+</UL>
+
+<P><STRONG><a name="[129]"></a>__fpl_dcheck_NaN1</STRONG> (ARM, 12 bytes, Stack size 0 bytes, dcheck1.o(x$fpl$dcheck1))
+<BR><BR>[Calls]<UL><LI><a href="#[12a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__fpl_return_NaN
+</UL>
+<BR>[Called By]<UL><LI><a href="#[11e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ARM_scalbn
+</UL>
+
+<P><STRONG><a name="[12c]"></a>__fpl_dcmp_Inf</STRONG> (ARM, 28 bytes, Stack size 0 bytes, dcmpi.o(x$fpl$dcmpinf), UNUSED)
+<BR><BR>[Called By]<UL><LI><a href="#[12d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_dcmple
+<LI><a href="#[12b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_dcmpeq
+</UL>
+
+<P><STRONG><a name="[121]"></a>__aeabi_cdcmpeq</STRONG> (ARM, 0 bytes, Stack size 0 bytes, deqf.o(x$fpl$deqf))
+<BR><BR>[Called By]<UL><LI><a href="#[124]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ldexp
+<LI><a href="#[11f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__mathlib_tofloat
+</UL>
+
+<P><STRONG><a name="[12b]"></a>_dcmpeq</STRONG> (ARM, 148 bytes, Stack size 0 bytes, deqf.o(x$fpl$deqf), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[128]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__fpl_dnaninf
+<LI><a href="#[12c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__fpl_dcmp_Inf
+</UL>
+
+<P><STRONG><a name="[12d]"></a>_dcmple</STRONG> (ARM, 148 bytes, Stack size 0 bytes, dleqf.o(x$fpl$dleqf), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[128]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__fpl_dnaninf
+<LI><a href="#[12c]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__fpl_dcmp_Inf
+</UL>
+
+<P><STRONG><a name="[12f]"></a>__fpl_dcmple_InfNaN</STRONG> (ARM, 0 bytes, Stack size 0 bytes, dleqf.o(x$fpl$dleqf), UNUSED)
+<BR><BR>[Called By]<UL><LI><a href="#[12e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_drcmple
+</UL>
+
+<P><STRONG><a name="[128]"></a>__fpl_dnaninf</STRONG> (ARM, 192 bytes, Stack size 0 bytes, dnaninf.o(x$fpl$dnaninf), UNUSED)
+<BR><BR>[Called By]<UL><LI><a href="#[12d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_dcmple
+<LI><a href="#[12b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_dcmpeq
+<LI><a href="#[126]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_d2f
+</UL>
+
+<P><STRONG><a name="[123]"></a>__aeabi_cdrcmple</STRONG> (ARM, 0 bytes, Stack size 0 bytes, drleqf.o(x$fpl$drleqf))
+<BR><BR>[Called By]<UL><LI><a href="#[11f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__mathlib_tofloat
+</UL>
+
+<P><STRONG><a name="[12e]"></a>_drcmple</STRONG> (ARM, 140 bytes, Stack size 0 bytes, drleqf.o(x$fpl$drleqf), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[12f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__fpl_dcmple_InfNaN
+</UL>
+
+<P><STRONG><a name="[c7]"></a>__aeabi_fmul</STRONG> (ARM, 0 bytes, Stack size 0 bytes, fmul.o(x$fpl$fmul))
+<BR><BR>[Called By]<UL><LI><a href="#[c5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;extractGPSData (via Veneer)
+</UL>
+
+<P><STRONG><a name="[130]"></a>_fmul</STRONG> (ARM, 256 bytes, Stack size 0 bytes, fmul.o(x$fpl$fmul), UNUSED)
+<BR><BR>[Calls]<UL><LI><a href="#[127]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__fpl_fretinf
+<LI><a href="#[131]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__fpl_fnaninf
+</UL>
+
+<P><STRONG><a name="[131]"></a>__fpl_fnaninf</STRONG> (ARM, 168 bytes, Stack size 0 bytes, fnaninf.o(x$fpl$fnaninf), UNUSED)
+<BR><BR>[Called By]<UL><LI><a href="#[130]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_fmul
+</UL>
+
+<P><STRONG><a name="[2c]"></a>_fp_init</STRONG> (ARM, 24 bytes, Stack size 0 bytes, fpinit.o(x$fpl$fpinit))
+<BR><BR>[Calls]<UL><LI><a href="#[132]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_fp_status_addr
+</UL>
+<BR>[Called By]<UL><LI><a href="#[2b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__rt_lib_init (via Veneer)
+</UL>
+
+<P><STRONG><a name="[127]"></a>__fpl_fretinf</STRONG> (ARM, 16 bytes, Stack size 0 bytes, fretinf.o(x$fpl$fretinf), UNUSED)
+<BR><BR>[Called By]<UL><LI><a href="#[130]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_fmul
+<LI><a href="#[126]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_d2f
+</UL>
+
+<P><STRONG><a name="[2]"></a>__ieee_status</STRONG> (ARM, 8 bytes, Stack size 0 bytes, istatus.o(x$fpl$ieeestatus))
+<BR><BR>[Called By]<UL><LI><a href="#[f4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_fp_value (via Veneer)
+<LI><a href="#[10f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_hex_real (via Veneer)
+</UL>
+
+<P><STRONG><a name="[12a]"></a>__fpl_return_NaN</STRONG> (ARM, 116 bytes, Stack size 0 bytes, retnan.o(x$fpl$retnan))
+<BR><BR>[Calls]<UL><LI><a href="#[133]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__fpl_cmpreturn
+</UL>
+<BR>[Called By]<UL><LI><a href="#[129]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__fpl_dcheck_NaN1
+</UL>
+
+<P><STRONG><a name="[11e]"></a>__ARM_scalbn</STRONG> (ARM, 104 bytes, Stack size 0 bytes, scalbn.o(x$fpl$scalbn))
+<BR><BR>[Calls]<UL><LI><a href="#[129]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__fpl_dcheck_NaN1
+</UL>
+<BR>[Called By]<UL><LI><a href="#[11d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__mathlib_dbl_underflow
+<LI><a href="#[124]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ldexp
+<LI><a href="#[120]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;frexp
+</UL>
+
+<P><STRONG><a name="[102]"></a>_scanf_real</STRONG> (ARM, 4 bytes, Stack size 0 bytes, scanf1.o(x$fpl$scanf1))
+<BR><BR>[Calls]<UL><LI><a href="#[f9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_real (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[fe]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__vfscanf (via Veneer)
+</UL>
+
+<P><STRONG><a name="[fb]"></a>_scanf_hex_real</STRONG> (ARM, 4 bytes, Stack size 0 bytes, scanf2.o(x$fpl$scanf2))
+<BR><BR>[Calls]<UL><LI><a href="#[10f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_hex_real (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[f9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_real (via Veneer)
+</UL>
+
+<P><STRONG><a name="[fa]"></a>_scanf_infnan</STRONG> (ARM, 4 bytes, Stack size 0 bytes, scanf2.o(x$fpl$scanf2))
+<BR><BR>[Calls]<UL><LI><a href="#[112]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_infnan (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[f9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_real (via Veneer)
+</UL>
+
+<P><STRONG><a name="[133]"></a>__fpl_cmpreturn</STRONG> (ARM, 60 bytes, Stack size 0 bytes, trapv.o(x$fpl$trapveneer))
+<BR><BR>[Called By]<UL><LI><a href="#[12a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__fpl_return_NaN
+</UL>
+<P>
+<H3>
+Local Symbols
+</H3>
+<P><STRONG><a name="[5]"></a>Undef_Handler</STRONG> (ARM, 4 bytes, Stack size 0 bytes, lpc2300.o(RESET))
+<BR><BR>[Calls]<UL><LI><a href="#[5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Undef_Handler
+</UL>
+<BR>[Called By]<UL><LI><a href="#[5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Undef_Handler
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> lpc2300.o(RESET)
+</UL>
+<P><STRONG><a name="[6]"></a>SWI_Handler</STRONG> (ARM, 4 bytes, Stack size 0 bytes, lpc2300.o(RESET))
+<BR><BR>[Calls]<UL><LI><a href="#[6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SWI_Handler
+</UL>
+<BR>[Called By]<UL><LI><a href="#[6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SWI_Handler
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> lpc2300.o(RESET)
+</UL>
+<P><STRONG><a name="[7]"></a>PAbt_Handler</STRONG> (ARM, 4 bytes, Stack size 0 bytes, lpc2300.o(RESET))
+<BR><BR>[Calls]<UL><LI><a href="#[7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;PAbt_Handler
+</UL>
+<BR>[Called By]<UL><LI><a href="#[7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;PAbt_Handler
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> lpc2300.o(RESET)
+</UL>
+<P><STRONG><a name="[8]"></a>DAbt_Handler</STRONG> (ARM, 4 bytes, Stack size 0 bytes, lpc2300.o(RESET))
+<BR><BR>[Calls]<UL><LI><a href="#[8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;DAbt_Handler
+</UL>
+<BR>[Called By]<UL><LI><a href="#[8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;DAbt_Handler
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> lpc2300.o(RESET)
+</UL>
+<P><STRONG><a name="[9]"></a>IRQ_Handler</STRONG> (ARM, 4 bytes, Stack size 0 bytes, lpc2300.o(RESET))
+<BR><BR>[Calls]<UL><LI><a href="#[9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;IRQ_Handler
+</UL>
+<BR>[Called By]<UL><LI><a href="#[9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;IRQ_Handler
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> lpc2300.o(RESET)
+</UL>
+<P><STRONG><a name="[a]"></a>FIQ_Handler</STRONG> (ARM, 4 bytes, Stack size 0 bytes, lpc2300.o(RESET))
+<BR><BR>[Calls]<UL><LI><a href="#[a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;FIQ_Handler
+</UL>
+<BR>[Called By]<UL><LI><a href="#[a]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;FIQ_Handler
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> lpc2300.o(RESET)
+</UL>
+<P><STRONG><a name="[d]"></a>Spoi_SerialIoIrq3</STRONG> (ARM, 128 bytes, Stack size 0 bytes, uart.o(.text))
+<BR>[Address Reference Count : 1]<UL><LI> uart.o(.text)
+</UL>
+<P><STRONG><a name="[6d]"></a>Spoi_Uart_Baudrate</STRONG> (Thumb, 68 bytes, Stack size 0 bytes, uart.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[6e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uidivmod (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[70]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Spoi_InitUartOne
+<LI><a href="#[5d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiUartInitialize
+</UL>
+
+<P><STRONG><a name="[6f]"></a>Spoi_InitUartBuffers</STRONG> (Thumb, 30 bytes, Stack size 0 bytes, uart.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr4 (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[5d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiUartInitialize
+</UL>
+
+<P><STRONG><a name="[f]"></a>Spoi_SerialIoIrq2</STRONG> (ARM, 128 bytes, Stack size 0 bytes, uart.o(.text))
+<BR>[Address Reference Count : 1]<UL><LI> uart.o(.text)
+</UL>
+<P><STRONG><a name="[10]"></a>Spoi_SerialIoIrq1</STRONG> (ARM, 108 bytes, Stack size 0 bytes, uart.o(.text))
+<BR>[Address Reference Count : 1]<UL><LI> uart.o(.text)
+</UL>
+<P><STRONG><a name="[70]"></a>Spoi_InitUartOne</STRONG> (Thumb, 102 bytes, Stack size 0 bytes, uart.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[6d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Spoi_Uart_Baudrate
+</UL>
+<BR>[Called By]<UL><LI><a href="#[5d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiUartInitialize
+</UL>
+
+<P><STRONG><a name="[e]"></a>Spoi_SerialIoIrq0</STRONG> (ARM, 156 bytes, Stack size 0 bytes, uart.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3d]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_memclr4
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> uart.o(.text)
+</UL>
+<P><STRONG><a name="[13]"></a>CAN_ISR</STRONG> (ARM, 152 bytes, Stack size 0 bytes, can.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[b7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;CAN_rdMsg (via Veneer)
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> can.o(.text)
+</UL>
+<P><STRONG><a name="[14]"></a>TIMER1_ISR</STRONG> (ARM, 300 bytes, Stack size 0 bytes, timer.o(.text))
+<BR>[Address Reference Count : 1]<UL><LI> timer.o(.text)
+</UL>
+<P><STRONG><a name="[15]"></a>TIMER2_ISR</STRONG> (ARM, 156 bytes, Stack size 0 bytes, timer.o(.text))
+<BR>[Address Reference Count : 1]<UL><LI> timer.o(.text)
+</UL>
+<P><STRONG><a name="[16]"></a>TIMER3_ISR</STRONG> (ARM, 364 bytes, Stack size 0 bytes, timer.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[3f]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__2printf (via Veneer)
+<LI><a href="#[6b]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SpoiPause (via Veneer)
+</UL>
+<BR>[Address Reference Count : 1]<UL><LI> timer.o(.text)
+</UL>
+<P><STRONG><a name="[d3]"></a>AddRoundKey</STRONG> (Thumb, 58 bytes, Stack size 0 bytes, encrpt.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[d2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Cipher
+</UL>
+
+<P><STRONG><a name="[d4]"></a>SubBytes</STRONG> (Thumb, 46 bytes, Stack size 0 bytes, encrpt.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[d2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Cipher
+</UL>
+
+<P><STRONG><a name="[d5]"></a>ShiftRows</STRONG> (Thumb, 54 bytes, Stack size 0 bytes, encrpt.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[d2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Cipher
+</UL>
+
+<P><STRONG><a name="[d6]"></a>MixColumns</STRONG> (Thumb, 142 bytes, Stack size 0 bytes, encrpt.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[d2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;Cipher
+</UL>
+
+<P><STRONG><a name="[d2]"></a>Cipher</STRONG> (Thumb, 58 bytes, Stack size 0 bytes, encrpt.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[d6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;MixColumns
+<LI><a href="#[d5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ShiftRows
+<LI><a href="#[d4]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;SubBytes
+<LI><a href="#[d3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AddRoundKey
+</UL>
+<BR>[Called By]<UL><LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AES128_CBC_encrypt_buffer
+</UL>
+
+<P><STRONG><a name="[d9]"></a>KeyExpansion</STRONG> (Thumb, 164 bytes, Stack size 0 bytes, encrpt.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AES128_CBC_encrypt_buffer
+</UL>
+
+<P><STRONG><a name="[d8]"></a>BlockCopy</STRONG> (Thumb, 14 bytes, Stack size 0 bytes, encrpt.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[d7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;AES128_CBC_encrypt_buffer
+<LI><a href="#[a1]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;ComputeMAC_Code
+</UL>
+
+<P><STRONG><a name="[117]"></a>__arm_div8</STRONG> (ARM, 0 bytes, Stack size 0 bytes, aeabi_sdiv.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[6e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uidivmod
+</UL>
+
+<P><STRONG><a name="[116]"></a>__arm_div5</STRONG> (ARM, 0 bytes, Stack size 0 bytes, aeabi_sdiv.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[6e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uidivmod
+</UL>
+
+<P><STRONG><a name="[115]"></a>__arm_div2</STRONG> (ARM, 0 bytes, Stack size 0 bytes, aeabi_sdiv.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[6e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uidivmod
+</UL>
+
+<P><STRONG><a name="[118]"></a>__arm_div_large</STRONG> (ARM, 0 bytes, Stack size 0 bytes, aeabi_sdiv.o(.text))
+<BR><BR>[Called By]<UL><LI><a href="#[6e]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_uidivmod
+</UL>
+
+<P><STRONG><a name="[f4]"></a>_fp_value</STRONG> (Thumb, 514 bytes, Stack size 0 bytes, scanf_fp.o(.text))
+<BR><BR>[Calls]<UL><LI><a href="#[e9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_errno_addr (via Veneer)
+<LI><a href="#[2]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__ieee_status (via Veneer)
+<LI><a href="#[f7]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_emuld (via Veneer)
+<LI><a href="#[f8]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_edivd (via Veneer)
+<LI><a href="#[f6]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_btod_etento
+<LI><a href="#[f5]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__aeabi_lmul (via Veneer)
+</UL>
+<BR>[Called By]<UL><LI><a href="#[f9]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_scanf_really_real
+</UL>
+
+<P><STRONG><a name="[1b]"></a>_scanf_char_input</STRONG> (Thumb, 12 bytes, Stack size 0 bytes, scanf_char.o(.text))
+<BR>[Address Reference Count : 1]<UL><LI> scanf_char.o(.text)
+</UL>
+<P><STRONG><a name="[1d]"></a>_printf_input_char</STRONG> (Thumb, 10 bytes, Stack size 0 bytes, _printf_char_common.o(.text))
+<BR>[Address Reference Count : 1]<UL><LI> _printf_char_common.o(.text)
+</UL><P>
+<H3>
+Undefined Global Symbols
+</H3>
+<P><STRONG><a name="[113]"></a>_call_atexit_fns</STRONG> (ARM, 0 bytes, Stack size 0 bytes, UNDEFINED)
+<BR><BR>[Called By]<UL><LI><a href="#[38]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;exit
+</UL>
+
+<P><STRONG><a name="[f1]"></a>_printf_mbtowc</STRONG> (ARM, 0 bytes, Stack size 0 bytes, UNDEFINED)
+<BR><BR>[Called By]<UL><LI><a href="#[f0]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_cs_common
+</UL>
+
+<P><STRONG><a name="[df]"></a>_printf_post_padding</STRONG> (ARM, 0 bytes, Stack size 0 bytes, UNDEFINED)
+<BR><BR>[Called By]<UL><LI><a href="#[e3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_int_common
+<LI><a href="#[dc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_str
+</UL>
+
+<P><STRONG><a name="[dd]"></a>_printf_pre_padding</STRONG> (ARM, 0 bytes, Stack size 0 bytes, UNDEFINED)
+<BR><BR>[Called By]<UL><LI><a href="#[e3]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_int_common
+<LI><a href="#[dc]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_str
+</UL>
+
+<P><STRONG><a name="[e0]"></a>_printf_truncate_signed</STRONG> (ARM, 0 bytes, Stack size 0 bytes, UNDEFINED)
+<BR><BR>[Called By]<UL><LI><a href="#[23]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_int_dec
+</UL>
+
+<P><STRONG><a name="[e1]"></a>_printf_truncate_unsigned</STRONG> (ARM, 0 bytes, Stack size 0 bytes, UNDEFINED)
+<BR><BR>[Called By]<UL><LI><a href="#[26]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_int_hex
+<LI><a href="#[23]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;_printf_int_dec
+</UL>
+
+<P><STRONG><a name="[104]"></a>_scanf_int</STRONG> (ARM, 0 bytes, Stack size 0 bytes, UNDEFINED)
+<BR><BR>[Called By]<UL><LI><a href="#[fe]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__vfscanf
+</UL>
+
+<P><STRONG><a name="[103]"></a>_scanf_longlong</STRONG> (ARM, 0 bytes, Stack size 0 bytes, UNDEFINED)
+<BR><BR>[Called By]<UL><LI><a href="#[fe]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__vfscanf
+</UL>
+
+<P><STRONG><a name="[106]"></a>_scanf_mbtowc</STRONG> (ARM, 0 bytes, Stack size 0 bytes, UNDEFINED)
+<BR><BR>[Called By]<UL><LI><a href="#[fe]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__vfscanf
+</UL>
+
+<P><STRONG><a name="[107]"></a>_scanf_wctomb</STRONG> (ARM, 0 bytes, Stack size 0 bytes, UNDEFINED)
+<BR><BR>[Called By]<UL><LI><a href="#[fe]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__vfscanf
+</UL>
+
+<P><STRONG><a name="[105]"></a>_scanf_wstring</STRONG> (ARM, 0 bytes, Stack size 0 bytes, UNDEFINED)
+<BR><BR>[Called By]<UL><LI><a href="#[fe]">&gt;&gt;</a>&nbsp;&nbsp;&nbsp;__vfscanf
+</UL>
+<HR></body></html>
