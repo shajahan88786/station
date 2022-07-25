@@ -466,7 +466,7 @@ static void TIMER3_ISR (void) __irq
 //			if(4 == gucSelfSlot)
 //			{
 //			//SpoiPause(ONE_MS);
-//				T3TCR = 0;
+				T3TCR = 0;
 //			}
 
 		T3IR|=MR2_INT;	
