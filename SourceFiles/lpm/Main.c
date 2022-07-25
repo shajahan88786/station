@@ -262,7 +262,7 @@ int main()
 			//printf("\n*** T1TC is %d",T1TC);
 			
 	 
-	  //gucSlot3Fail = 0;		
+	  //gucSlot3Fail = 0;		//comment here
 	}
 	#if 0
 	else if(4 == gucSelfSlot)

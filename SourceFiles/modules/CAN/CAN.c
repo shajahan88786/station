@@ -516,6 +516,7 @@ void TransmitCanPkt(enum enumCanId idetifier)
 			size = sizeof(GPS_DATE_TIME_t);
 			sendCanPkts(ptr,size,idetifier);
 			break;
+		//comment
 		case CM2_LPM_GPS_TIME_PKT:
 		    ptr = &stCanGpsInfo;
 			size = sizeof(GPS_DATE_TIME_t);
